@@ -79,7 +79,9 @@ Resumen del roadshow de recaudación de fondos de 2020.
 ### MINILIFT-DIY - IDEIA 
 
 **A oportunidade e a proposta** <br>
-A empresa Exxponential LLC importa do Brasil e instala nos USA a **MiniLift**, uma linha de elevadores de duas paradas, considerada revolucionária por sua simplicidade, eficácia de operação, consumo de energia e baixo impacto ao meio ambiente. A empresa tem encontrado uma aceitação muito boa do produto no mercado americano, o que pode ser comprovado com um indicador NPS acima de 8 entre seus clientes. 
+A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores de duas paradas **revolucionária** por sua **simplicidade**, **eficácia** de operação, **consumo** de energia e baixo **impacto ao meio ambiente**.
+
+A empresa tem encontrado uma aceitação muito boa do produto no mercado americano, o que pode ser comprovado com um indicador NPS acima de 8 entre seus clientes. 
 
 <table style="width:100%">
   <tr>
