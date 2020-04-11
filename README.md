@@ -11,7 +11,7 @@
 <a name="english"></a>
 <br>
 
-### MINILIFT DIY BUSINESS PITCH 
+### MINILIFT-DIY BUSINESS PITCH 
 Summary of the 2020 fundraising roadshow. <br>
 
 **THE OPPORTUNITY AND THE PROPOSAL** <br>
@@ -25,7 +25,7 @@ All expansion
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
 
 
 <br>
@@ -47,7 +47,7 @@ All expansion
 <a name="spanish"></a> 
 <br>
 
-### OPEN-PBL - PRESENTACIÓN DE IDEA DE NEGOCIO
+### MINILIFT-DIY - PRESENTACIÓN DE IDEA DE NEGOCIO
 Resumen del roadshow de recaudación de fondos de 2020.
 
 **...**
@@ -55,9 +55,7 @@ Resumen del roadshow de recaudación de fondos de 2020.
 (Pronto también disponible en la versión en español)
 ...
 
-*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
-
-*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
+*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
 
 <br>
 <p align="center">    
@@ -78,7 +76,7 @@ Resumen del roadshow de recaudación de fondos de 2020.
 <a name="portuguese"></a> 
 <br>
 
-### MINILIFT DIY - IDEIA 
+### MINILIFT-DIY - IDEIA 
 
 **A oportunidade e a proposta** <br>
 Cada 
@@ -91,7 +89,7 @@ Todas
 
 ... 
 
-*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
 
 
 
@@ -115,14 +113,14 @@ Todas
 <a name="chinese"></a> 
 <br>
 
-### OPEN-PBL-经营理念
+### MINILIFT-DIY-经营理念
 2020年筹款路演摘要。
 
 ...
 （很快也有中文版本）
 ...
 
-*1。 对<a href="http://bit.ly/NDA-OpenPBL"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
+*1。 对<a href="http://bit.ly/NDA-OpenPBL"> MiniliftDIY NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
 
 *2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese">讲故事</a>（仅提供葡萄牙语版本）*
 
