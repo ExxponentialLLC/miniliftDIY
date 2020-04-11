@@ -79,13 +79,39 @@ Resumen del roadshow de recaudación de fondos de 2020.
 ### MINILIFT-DIY - IDEIA 
 
 **A oportunidade e a proposta** <br>
-Cada 
+A empresa Exxponential LLC importa do Brasil e instala nos USA a **MiniLift**, uma linha de elevadores de duas paradas, considerada revolucionária por sua simplicidade, eficácia de operação, consumo de energia e baixo impacto ao meio ambiente. A empresa tem encontrado uma aceitação muito boa do produto no mercado americano, o que pode ser comprovado com um indicador NPS acima de 8 entre seus clientes. 
+
+<table style="width:100%">
+  <tr>
+    <th><img src="img/sum_quadro12.png"></th> 
+    <th><img src="img/sum_sofia1.png"></th>
+  </tr>
+</table>
+<p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw">Vídeo</a> do funcionamento do MiniLift Nano.</em>
+</p>
+
+<br>
+
+A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre eles: (1) seu baixo preço e simplicidade (2) a boa dispersão da população de classe média; (3) a alta incidência de casas de dois andares e; (4) um pujante mercado de acessibilidade individual, puxado, sobretudo, por idosos e portadores de deficiência, entre estes, os veteranos de guerra. 
+
+Todos esses fatores apontam para um crescimento promissor da Exxponential e uma crescente **popularização do conceito** de acessibilidade da linha MinniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. Uma operação bastante rápida e simples, mas que envolve uma complexidade logística porque frequentemente exige deslocamentos, despesas com hospedagem e mão de obra especializada.
+
+Por outro lado, o mercado americano é bastante receptivo ao conceito “**Do It Yourself (DIY)** ”, no qual o próprio cliente monta e instala um determinado equipamento, quase sempre em troca da redução do preço do mesmo equipamento quando montado e instalado por terceiros. 
+
+Diante deste cenário, os idealizadores do projeto MiniliftDIY viram-se diante de uma excelente oportunidade para empreenderem um novo negócio. Pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
 
 **O negócio e a execução** <br>
-Os 
+Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conveito DIY através no **varejo massivo** dos USA. 
 
-**Financiamento** <br>
-Todas 
+Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
+
+As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
+
+
+**Financiamento** <br> 
+Todas as etapas de expansão previstas no plano serão financiadas por capital de risco e a principal regra de saída para atrair investidores é a recompra das participações pelos sócios originais. 
+
+O objetivo do atual roadshow, publicado em Crunch Base, é a captação de quatro quotas de US $ XX.000 para desenvolver o projeto, fabricar e importar para os USA um estoque mínimo e iniciar a operação comercial na cidade de Miami, FL.
 
 ... 
 
