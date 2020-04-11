@@ -93,21 +93,18 @@ A empresa tem encontrado uma aceitação muito boa do produto no mercado america
 
 <br>
 
-A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre eles: (1) seu baixo preço e simplicidade (2) a boa dispersão da população de classe média; (3) a alta incidência de casas de dois andares e; (4) um pujante mercado de acessibilidade individual, puxado, sobretudo, por idosos e portadores de deficiência, entre estes, os veteranos de guerra. 
+A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre eles: (1) seu **baixo preço** e simplicidade (2) a boa dispersão da população de classe média; (3) a alta incidência de casas de dois andares e; (4) um pujante mercado de **acessibilidade** individual, puxado, sobretudo, por idosos e portadores de deficiência, entre estes, os veteranos de guerra. 
 
-Todos esses fatores apontam para um crescimento promissor da Exxponential e uma crescente **popularização do conceito** de acessibilidade da linha MinniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. Uma operação bastante rápida e simples, mas que envolve uma complexidade logística porque frequentemente exige deslocamentos, despesas com hospedagem e mão de obra especializada.
+Todos esses fatores apontam para um crescimento promissor da Exxponential e uma crescente **popularização do conceito** de acessibilidade da linha MinniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. Trata-se de uma operação bastante rápida e simples, mas que frequentemente exige alguma **complexidade logística** porque emvolve **deslocamentos**, despesas com **hospedagem** e **mão de obra especializada**.
 
 Por outro lado, o mercado americano é bastante receptivo ao conceito “**Do It Yourself (DIY)** ”, no qual o próprio cliente monta e instala um determinado equipamento, quase sempre em troca da redução do preço do mesmo equipamento quando montado e instalado por terceiros. 
 
-Diante deste cenário, os idealizadores do projeto MiniliftDIY viram-se diante de uma excelente oportunidade para empreenderem um novo negócio. Pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
+Diante deste cenário, os idealizadores do **projeto Minilift DIY** viram-se diante de uma excelente oportunidade de negócios. Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
 
 **O negócio e a execução** <br>
-Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conveito DIY através no **varejo massivo** dos USA. 
-
-Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
+Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conveito DIY através no **varejo massivo** dos USA. Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
 
 As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
-
 
 **Financiamento** <br> 
 Todas as etapas de expansão previstas no plano serão financiadas por capital de risco e a principal regra de saída para atrair investidores é a recompra das participações pelos sócios originais. 
