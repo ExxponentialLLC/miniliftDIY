@@ -83,8 +83,7 @@ A empresa Exxponential LLC importa do Brasil e instala nos USA a **MiniLift**, u
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/sum_quadro12.png"></th> 
-    <th><img src="img/sum_sofia1.png"></th>
+    <th><img src="img/simulacao1.png"></th> 
   </tr>
 </table>
 <p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw">Vídeo</a> do funcionamento do MiniLift Nano.</em>
