@@ -11,8 +11,8 @@
 <a name="english"></a>
 <br>
 
-### MINILIFT DIY - BUSINESS PITCH 
-Summary of the 2020.1 fundraising roadshow. <br>
+### OPEN-PBL BUSINESS PITCH 
+Summary of the 2020 fundraising roadshow. <br>
 
 **THE OPPORTUNITY AND THE PROPOSAL** <br>
 Companies are increasingly demanding professionals from **all hierarchical levels** to develop the **behavioral skills** that allow them, not only to achieve the **expected results** but to achieve them in the **most efficient** way possible.However, despite this growing market opportunity, the offer of educational programs that aim to develop this type of skill does not keep up with the increase in demand.
@@ -29,35 +29,102 @@ The financial simulations of the **business model** show that, with a minimum **
 For the detailed design, implementation and testing of the **OpenPBL educational system**, investments of US $ 100,000 are required, accounted, in large part, as "capital expenditure" (capex) in **software development**.
 
 **FINANCING** <br>
+All expansion steps provided for in the plan will be financed by **venture capital** and the main exit rule to attract investors is the **strategic sale** of the company to an educational group. 
+
+The purpose of the current roadshow - published at <a href="https://www.crunchbase.com/organization/openpbl#section-overview"> CrunchBase.com </a> - is to capture **four quotas** from of US $ 34,000 to **develop software systems** and the company **startup** in the city of São Paulo.
+
+...
+
+*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+
+*2. For more details of OpenPBL professional school, see a <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#english">storytelling</a> of its standard product (only the portuguese version available).*
+
+<br>
+<p align="center">    
+    <a href="#english">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
     ·
     <a href="#portuguese">Portuguese</a>
     ·
     <a href="#chinese">Chinese</a>
 </p>
 
-<br>
-
-**Qué es** <br>
-**Aplicación de software de código abierto** que mapea el potencial de transmisión de COVID-19 en las rutas de transporte público. <br><br>
-
-<br>
-
-<p align="center"><a href="#start">volver</a></p>
-
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+
+<a name="spanish"></a> 
+<br>
+
+### OPEN-PBL - PRESENTACIÓN DE IDEA DE NEGOCIO
+Resumen del roadshow de recaudación de fondos de 2020.
+
+**...**
+
+(Pronto también disponible en la versión en español)
+...
+
+*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+
+*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
+
+<br>
+<p align="center">    
+    <a href="#english">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+## <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <a name="portuguese"></a> 
 <br>
 
-## COVID-19 Mapeamento Colaborativo 
-Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos. <br>
+### OPEN-PBL - IDEIA 
 
-<p>
-    <a href="#start">English</a>
+**A oportunidade e a proposta** <br>
+Cada vez mais, as empresas vêm demandando dos profissionais de **todos os seus níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível.
+
+No entanto, a atual oferta de **programas educacionais** que desenvolvem esse tipo de competência **não é suficiente** para suprir a necessidade de **profissionais** e **entrantes** no mercado de trabalho.
+
+Para aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. 
+
+O modelo aumenta consideravelmente a **escalabilidade** de programas educacionais que utilizam a *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. 
+
+**O negócio e a execução** <br>
+Os idealizadores elaboraram um plano de negócios para criar a Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que utiliza o modelo proposto para ofertar programas baseados em PBL.
+
+O plano prevê o desenvolvimento de **sistemas de software** para automatizar o modelo e garantir uma rápida **expanção das atividades da escola**. 
+
+As simulações financeiras do plano de negócios mostram que é necessário um **investimento** inicial **mínimo** de R$ 160.000 em **produção de conteúdo** para alcançar uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação. 
+
+Graças ao potencial de escalabilidade do modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) pode ser replicado ou ampliado proporcionalmente sem custos adicionais.
+
+**Financiamento** <br>
+Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
+
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
+
+... 
+
+*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+
+*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#portuguese">storytelling</a> do seu produto-tipo.* 
+
+
+
+<br>
+<p align="center">    
+    <a href="#english">English</a>
     ·
     <a href="#spanish">Spanish</a>
     ·
@@ -66,53 +133,34 @@ Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em lo
     <a href="#chinese">Chinese</a>
 </p>
 
-<br>
-
-**O que é** <br>
-Aplicação de **software de código aberto** que mapeia o potencial de transmissão do COVID-19 nos trajetos de transportes públicos. <br><br>
-
-**Apoiadores**  <br>
-As seguintes comunidades e organizações apoiam a iniciativa: <br>
-    - Colaboram com assessoria técnica nos protocolos internacionais de saúde: <br>
-    - **Hospital Albert Eisntein** (contato em andamento) 
-    - **Comissão técnica de acompanhamento do COVID-19 no Ministério da Saúde** (contato em andamento) <br>
-    - **Comissão técnica de acompanhamento do COVID-19 no Governo do Estado de São Paulo** (contato em andamento) <br>
-
-O cronograma de lançamento de novas versões pode ser acompanhado na página web do projeto em [https://imagine-apps.github.io/COVID-19](https://imagine-apps.github.io/COVID-19/#portuguese). <br><br>
-
-<br>
-
-<p align="center"><a href="#start">voltar</a></p>
-
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<a name="chinese"></a>
+<a name="chinese"></a> 
 <br>
 
-## COVID-19协作映射
-用于在公共场所绘制COVID-19传播图的协作工具。<br>
+### OPEN-PBL-经营理念
+2020年筹款路演摘要。
 
-<p>
-    <a href="#start">English</a>
+...
+（很快也有中文版本）
+...
+
+*1。 对<a href="http://bit.ly/NDA-OpenPBL"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
+
+*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese">讲故事</a>（仅提供葡萄牙语版本）*
+
+<br>
+<p align="center">    
+    <a href="#english">English</a>
     ·
     <a href="#spanish">Spanish</a>
     ·
     <a href="#portuguese">Portuguese</a>
     ·
-    <a href="#chinese">Chinese</a>
-</p>
-
-<br>
-
-**什么是** <br>
-开源软件应用程序，用于映射COVID-19在公共交通路线上的传输潜力。<br><br>
-
-
-<br>
-
-<p align="center"><a href="#start">回来</a></p>
+    <a href="#chinese">Chinese</a></p>
 
 ## <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
