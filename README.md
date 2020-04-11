@@ -11,8 +11,8 @@
 <a name="english"></a>
 <br>
 
-### OPEN-PBL BUSINESS PITCH 
-Summary of the 2020 fundraising roadshow. <br>
+### MINILIFT DIY - BUSINESS PITCH 
+Summary of the 2020.1 fundraising roadshow. <br>
 
 **THE OPPORTUNITY AND THE PROPOSAL** <br>
 Companies are increasingly demanding professionals from **all hierarchical levels** to develop the **behavioral skills** that allow them, not only to achieve the **expected results** but to achieve them in the **most efficient** way possible.However, despite this growing market opportunity, the offer of educational programs that aim to develop this type of skill does not keep up with the increase in demand.
