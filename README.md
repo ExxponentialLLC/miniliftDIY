@@ -107,7 +107,7 @@ Os empreendedores elaboraram um plano de negócios para a criação da empresa *
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/simulacao1.png"></th> 
+    <th><img src="img/Costco.png"></th> 
 
 Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
 
