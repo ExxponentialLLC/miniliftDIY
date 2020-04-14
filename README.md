@@ -107,7 +107,7 @@ Os empreendedores elaboraram um plano de negócios para a criação da empresa *
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/Home Depot logo.png"></th> 
+    <th><img src="img/Home Depot logo low.png"></th> 
     <th><img src="img/Ace_Hardware_Logo_low.png"></th> 
     <th><img src="img/Costco.png"></th> 
     <th><img src="img/Bjs logo.png"></th> 
