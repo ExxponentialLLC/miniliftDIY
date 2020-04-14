@@ -6,7 +6,11 @@
 
 **Organização da pasta DOC** <br>
 - Para cada envio do sumário executivo abrir um arquivo MD redirecionador para **/private/ExecutiveSummary#language**
-- Onde **Language** pode ser english;spanish;portuguese ou chinese 
+- Onde **Language** pode ser english, spanish, portuguese ou chinese
+
+<br><br>
+
+##.
 
 
 
