@@ -1,8 +1,8 @@
 <a name="start"></a>
 
-### MINILIFT-DIY ROADMAP 2010.1 
+### MINILIFT-DIY ROADMAP 2020.1 
 - Todas as pastas publicáveis estão na pasta DOC.
-- As tarefas estão listadas no <a href="https://github.com/ExxponentialLLC/miniliftDIY/projects/1?fullscreen=true">dashboard de acompanhamento</a>
+- As tarefas do roadmap estão listadas no <a href="https://github.com/ExxponentialLLC/miniliftDIY/projects/1?fullscreen=true">dashboard de acompanhamento</a>
 
 <br>
 
