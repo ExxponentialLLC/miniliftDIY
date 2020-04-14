@@ -1,5 +1,5 @@
 <head>
-  <meta http-equiv='refresh' content='2; URL=ExecutiveSummary.html'>
+  <meta http-equiv='refresh' content='10; URL=ExecutiveSummary'>
 </head>
 
 You'll be redirected as soon as your credentials are validated 2... <br>
@@ -7,4 +7,5 @@ You'll be redirected as soon as your credentials are validated 2... <br>
  <a href="https://exxponentialllc.github.io/miniliftDIY/ExecutiveSummary">link</a>
 
 
+ <a href="ExecutiveSummary">link 2</a>
 
