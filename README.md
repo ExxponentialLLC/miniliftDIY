@@ -1,20 +1,17 @@
 <a name="start"></a>
-<br>
 
-### MINILIFT-DIY BUSINESS PITCH 
-Summary of the 2020 fundraising roadshow. <br>
+**MINILIFT-DIY ROADMAP 2010.1**  
 
-**THE OPPORTUNITY AND THE PROPOSAL** <br>
-Companies a
+- Todas as pastas publicáveis estão na pasta DOC.
+- As tarefas estão listadas no <a href="https://github.com/ExxponentialLLC/miniliftDIY/projects/1?fullscreen=true">dashboard de acompanhamento</a>
 
-**BUSINESS AND EXECUTION** <br>
-The innovative 
 
-**FINANCING** <br>
-All expansion 1
 
-...
 
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
+**Organização da pasta DOC** <br>
+
+- Para cada envio do sumário executivo abrir um arquivo MD redirecionador para **private/ExecutiveSummary#language**
+- Language = english; spanish ; portuguese ; chinese 
+- 
 
 
