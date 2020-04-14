@@ -1,5 +1,5 @@
 <head>
-  <meta http-equiv='refresh' content='10; URL=ExecutiveSummary'>
+  <meta http-equiv='refresh' content='2; URL=ExecutiveSummary'>
 </head>
 
 You'll be redirected as soon as your credentials are validated 2... <br>
