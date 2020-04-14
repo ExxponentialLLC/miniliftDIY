@@ -4,6 +4,7 @@
 
 You'll be redirected as soon as your credentials are validated 2... <br>
 
- <a href="https://exxponentialllc.github.io/miniliftDIY/ExecutiveSummary.md">link</a>
+ <a href="https://exxponentialllc.github.io/miniliftDIY/ExecutiveSummary">link</a>
+
 
 
