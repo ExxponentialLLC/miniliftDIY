@@ -103,7 +103,13 @@ Por outro lado, o mercado americano é bastante receptivo ao conceito “**Do It
 Diante deste cenário, os idealizadores do **projeto Minilift DIY** viram-se diante de uma excelente oportunidade de negócios. Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
 
 **O negócio e a execução** <br>
-Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conveito DIY através no **varejo massivo** dos USA. Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
+Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através do **varejo massivo** dos USA, starting with initial focus on retailing network like Home Depot, Ace Hardware, Costco and BJs.
+
+<table style="width:100%">
+  <tr>
+    <th><img src="img/simulacao1.png"></th> 
+
+Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
 
 As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
 
