@@ -9,8 +9,8 @@
 <br>
 
 **Organização da pasta DOCS** <br>
-- Para cada sumário executivo enviado abrir um arquivo MD com redirecionamento.
-- Redirecionar para **/private/ExecutiveSummary#language**, onde **Language** pode ser english, spanish, portuguese ou chinese
+- Para cada sumário executivo enviado abrir um arquivo .md na pasta DOCS. 
+- Arquivo .md com redirecionamento para **/private/ExecutiveSummary#language**, onde **Language** pode ser english, spanish, portuguese ou chinese
 - Exemplo: **SumarioInvestidoresBoston15abr20.md**  
 
 <br><br>
