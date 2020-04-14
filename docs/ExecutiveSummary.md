@@ -11,7 +11,7 @@
 <a name="english"></a>
 <br>
 
-### MINILIFT-DIY BUSINESS PITCH 
+### MINILIFT-DIY EXECUTIVE SUMMARY 
 Summary of the 2020 fundraising roadshow. <br>
 
 **THE OPPORTUNITY AND THE PROPOSAL** <br>
@@ -47,7 +47,7 @@ All expansion 1
 <a name="spanish"></a> 
 <br>
 
-### MINILIFT-DIY - PRESENTACIÓN DE IDEA DE NEGOCIO
+### MINILIFT-DIY - 
 Resumen del roadshow de recaudación de fondos de 2020.
 
 **...**
@@ -76,7 +76,7 @@ Resumen del roadshow de recaudación de fondos de 2020.
 <a name="portuguese"></a> 
 <br>
 
-### MINILIFT-DIY - IDEIA 
+### MINILIFT-DIY - SUMÁRIO EXECUTIVO 
 
 **A oportunidade e a proposta** <br>
 A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores de duas paradas **revolucionária** por sua **simplicidade**, **eficácia** de operação, **consumo** de energia e baixo **impacto ao meio ambiente**.
