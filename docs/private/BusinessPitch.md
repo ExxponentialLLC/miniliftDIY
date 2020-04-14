@@ -1,3 +1,84 @@
+<p align="center">    
+    <a href="#english">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+<a name="english"></a>
+<br>
+
+### MINILIFT-DIY BUSINESS PITCH 
+Summary of the 2020 fundraising roadshow. <br>
+
+**THE OPPORTUNITY AND THE PROPOSAL** <br>
+Companies a
+
+**BUSINESS AND EXECUTION** <br>
+The innovative 
+
+**FINANCING** <br>
+All expansion 1
+
+...
+
+*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
+
+
+<br>
+<p align="center">    
+    <a href="#english">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+## <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<a name="spanish"></a> 
+<br>
+
+### MINILIFT-DIY - PRESENTACIÓN DE IDEA DE NEGOCIO
+Resumen del roadshow de recaudación de fondos de 2020.
+
+**...**
+
+(Pronto también disponible en la versión en español)
+...
+
+*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
+
+<br>
+<p align="center">    
+    <a href="#english">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+## <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<a name="portuguese"></a> 
+<br>
+
+### MINILIFT-DIY - IDEIA 
+
+**A oportunidade e a proposta** <br>
 A empresa 
 
 **O negócio e a execução** <br>
