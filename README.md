@@ -12,7 +12,9 @@
 **Organização da pasta DOCS** <br>
 - Para cada sumário executivo enviado abrir um arquivo .md na pasta DOCS. 
 - Arquivo .md com redirecionamento para **/private/ExecutiveSummary#language**, onde **Language** pode ser english, spanish, portuguese ou chinese
-- Por exemplo: O link para o qrquivo **Sumario-InvestidoresBoston-15abr20.md** é https://exxponentialllc.github.io/miniliftDIY/Sumario-InvestidoresBoston-15abr20.
+- Por exemplo: 
+  - Arquivo **Sumario-InvestidoresBoston-15abr20.md**. 
+  - O link é https://exxponentialllc.github.io/miniliftDIY/Sumario-InvestidoresBoston-15abr20.
 
 <br><br>
 
