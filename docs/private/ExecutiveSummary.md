@@ -121,7 +121,7 @@ As simulações financeiras do plano de negócios mostram que, com um investimen
 **Financiamento** <br> 
 Todas as etapas de expansão previstas no plano serão financiadas por capital de risco e a principal regra de saída para atrair investidores é a recompra das participações pelos sócios originais. 
 
-O objetivo do atual roadshow, publicado em Crunch Base, é a captação de quatro quotas de US $ XX.000 para desenvolver o projeto, fabricar e importar para os USA um estoque mínimo e iniciar a operação comercial na cidade de Miami, FL.
+O objetivo do atual roadshow, publicado em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> , é a captação de quatro quotas de US $ XX.000 para desenvolver o projeto, fabricar e importar para os USA um estoque mínimo e iniciar a operação comercial na cidade de Miami, FL.
 
 ... 
 
