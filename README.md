@@ -22,7 +22,7 @@
   - Para enviar o sumário executivo em inglês para os investidores de Boston em 15 de abril de 2020.
   - Criar o arquivo docs/Sumario-InvestidoresBoston-15abr20.md  
   - O arquivo redireciona para o sumário em /private/ExecutiveSummary#english 
-  - O link para acessar o arquivo é https://exxponentialllc.github.io/miniliftDIY/Sumario-InvestidoresBoston-15abr20 
+  - O link para acessar o arquivo é https://exxponentialllc.github.io/miniliftDIY/InvestidoresBoston-15abr20 
   - O link pode ser encurtado para https://bit.ly/ExecSum-15abr e enviado ao potencial investidor.
 
   
