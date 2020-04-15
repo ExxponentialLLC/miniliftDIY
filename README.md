@@ -1,11 +1,13 @@
 <a name="start"></a>
 
-### MINILIFT-DIY ROADMAP 2020.1 
+### MINILIFT DIY - ROADMAP 2020.1 
 - Todas as páginas publicáveis estão na pasta DOCS do repositório **/miniliftDIY**.
-- O link para as páginas têm o prefixo https://exxponentialllc.github.io/miniliftDIY/...
-- As páginas descrevendo o **pitch** e o **sumário executivo** estão na pasta PRIVATE dentro de DOCS.
-- As imagens estão na pasta IMG dentro de DOCS. 
-- As tarefas do roadmap estão listadas no <a href="https://github.com/ExxponentialLLC/miniliftDIY/projects/1?fullscreen=true">dashboard de acompanhamento</a>.
+- O link para as páginas publicáveis têm o prefixo https://exxponentialllc.github.io/miniliftDIY/... + o nome do arquivo. 
+- As páginas do **pitch** e do **sumário executivo** estão na pasta PRIVATE dentro da pasta DOCS.
+- As imagens estão na pasta IMG dentro de DOCS/PRIVATE. 
+
+**Tarefas**
+- As tarefas do roadmap 2020.1 estão listadas no <a href="https://github.com/ExxponentialLLC/miniliftDIY/projects/1?fullscreen=true">dashboard de acompanhamento</a>. 
 
 <br>
 
