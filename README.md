@@ -6,6 +6,8 @@
 - As páginas do **pitch** e do **sumário executivo** estão na pasta PRIVATE dentro da pasta DOCS.
 - As imagens estão na pasta IMG dentro de DOCS/PRIVATE. 
 
+<br>
+
 **Tarefas**
 - As tarefas do roadmap 2020.1 estão listadas no <a href="https://github.com/ExxponentialLLC/miniliftDIY/projects/1?fullscreen=true">dashboard de acompanhamento</a>. 
 
