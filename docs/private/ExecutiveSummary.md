@@ -107,6 +107,7 @@ Diante deste cenário, os idealizadores do **projeto Minilift DIY** viram-se dia
 **O negócio e a execução** <br>
 Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através do **varejo massivo** dos USA, starting with initial focus on retailing network like Home Depot, Ace Hardware, Costco and BJs.
 
+<p align="center">
 <table style="width:100%">
   <tr>
     <th><img src="img/Home Depot logo low.png" height="50"></th> 
@@ -115,6 +116,7 @@ Os empreendedores elaboraram um plano de negócios para a criação da empresa *
     <th><img src="img/bjs_logo_new_2.jpg" height="50"></th> 
   </tr>
 </table>
+</p>
 
 <p align="center">
 <em>Empresas de varejo de massa nos EUA.</em>
