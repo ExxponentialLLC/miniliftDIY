@@ -107,16 +107,22 @@ Os empreendedores elaboraram um plano de negócios para a criação da empresa *
 
 <table style="width:100%">
   <tr>
+    <th><img src="img/dre_anos15.png"></th> 
+  </tr>
+</table>
+
+Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
+
+As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
+
+<table style="width:100%">
+  <tr>
     <th><img src="img/Home Depot logo low.png"></th> 
     <th><img src="img/Ace_Hardware_Logo_low_2.png"></th> 
     <th><img src="img/Costco.png"></th> 
     <th><img src="img/bjs_logo_new_2.jpg"></th> 
         </tr>
 </table>
-
-Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
-
-As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
 
 **Financiamento** <br> 
 Todas as etapas de expansão previstas no plano serão financiadas por capital de risco e a principal regra de saída para atrair investidores é a recompra das participações pelos sócios originais. 
