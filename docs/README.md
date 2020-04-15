@@ -7,6 +7,6 @@ https://exxponentialllc.github.io/miniliftDIY/
 ... <br>
 14abr20 <br>
 Criado para servir de modelo. <br>
-https://exxponentialllc.github.io/miniliftDIY/Sumario-ModeloRedirecionamento-14abr20 
+https://exxponentialllc.github.io/miniliftDIY/Sumario-InvestidoresBoston-15abr20
 
 
