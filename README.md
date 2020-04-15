@@ -14,11 +14,18 @@
 <br>
 
 **Organização da pasta DOCS** <br>
-- Para cada sumário executivo enviado abrir um arquivo .md na pasta DOCS. 
-- Arquivo .md com redirecionamento para **/private/ExecutiveSummary#language**, onde **Language** pode ser english, spanish, portuguese ou chinese
-- Por exemplo: 
-  - Arquivo **Sumario-InvestidoresBoston-15abr20.md**. 
-  - O link é https://exxponentialllc.github.io/miniliftDIY/Sumario-InvestidoresBoston-15abr20.
+- Para cada **sumário executivo** a ser enviado, é preciso criar um arquivo .md na pasta DOCS. 
+- Opcionalmente é possível encurtar o link no **bit.ly** .
+- O arquivo .md apenas redireciona para **/private/ExecutiveSummary#language**, onde **Language** pode ser english, spanish, portuguese ou chinese.
+
+- Exemplo: 
+  - Para enviar o sumário executivo em inglês para os investidores de Boston em 15 de abril de 2020.
+  - Criar o arquivo **Sumario-InvestidoresBoston-15abr20.md**. 
+  - O link do arquivo é https://exxponentialllc.github.io/miniliftDIY/Sumario-InvestidoresBoston-15abr20 
+  - O arquivo redireciona para o sumário em /private/ExecutiveSummary#english 
+  - O link encurtado para bit.ly/ExecSum-15abr é enviado ao potencial investidor.
+
+  
 
 <br><br>
 
