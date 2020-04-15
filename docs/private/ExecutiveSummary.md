@@ -126,9 +126,9 @@ Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distrib
 
 As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
-    <td width="50%"><img src="img/dre_anos15.png" height="42" width="42"></td> 
+    <td width="100%"><img src="img/dre_anos15.png" height="80" width="80"></td> 
   </tr>
 </table>
 
