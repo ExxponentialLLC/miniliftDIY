@@ -111,9 +111,9 @@ Os empreendedores elaboraram um plano de negócios para a criação da empresa *
     <img src="img/Home Depot logo low.png" height="50">
     |
     <img src="img/Ace_Hardware_Logo_low_2.png" height="50">
-    '
+    '      
     <img src="img/Costco.png" height="50">
-    <br>
+    '        
     <img src="img/bjs_logo_new_2.jpg" height="50">
 </p>
 
