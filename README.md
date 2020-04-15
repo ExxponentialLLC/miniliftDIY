@@ -1,7 +1,7 @@
 <a name="start"></a>
 
 ### MINILIFT-DIY ROADMAP 2020.1 
-- Todas as páginas publicáveis estão na pasta DOCS.
+- Todas as páginas publicáveis estão na pasta DOCS do repositório **miniliftDIY**.
 - O link para as páginas têm o prefixo https://exxponentialllc.github.io/miniliftDIY/...
 - As páginas descrevendo o **pitch** e o **sumário executivo** estão na pasta PRIVATE dentro de DOCS.
 - As imagens estão na pasta IMG dentro de DOCS. 
