@@ -89,7 +89,9 @@ A empresa tem encontrado uma aceitação muito boa do produto no mercado america
     <th><img src="img/simulacao1.png"></th> 
   </tr>
 </table>
-<p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw">Vídeo</a> do funcionamento do MiniLift Nano.</em>
+
+<p align="center">
+<em><a href="https://youtu.be/WyKZC7nhQZw">Vídeo</a> do funcionamento do MiniLift Nano.</em>
 </p>
 
 <br>
@@ -107,9 +109,18 @@ Os empreendedores elaboraram um plano de negócios para a criação da empresa *
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/dre_anos15.png"></th> 
-  </tr>
+    <th><img src="img/Home Depot logo low.png"></th> 
+    <th><img src="img/Ace_Hardware_Logo_low_2.png"></th> 
+    <th><img src="img/Costco.png"></th> 
+    <th><img src="img/bjs_logo_new_2.jpg"></th> 
+        </tr>
 </table>
+
+<p align="center">
+<em>Empresas de varejo de massa nos EUA.</em>
+</p>
+
+<br>
 
 Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
 
@@ -117,12 +128,15 @@ As simulações financeiras do plano de negócios mostram que, com um investimen
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/Home Depot logo low.png"></th> 
-    <th><img src="img/Ace_Hardware_Logo_low_2.png"></th> 
-    <th><img src="img/Costco.png"></th> 
-    <th><img src="img/bjs_logo_new_2.jpg"></th> 
-        </tr>
+    <th><img src="img/dre_anos15.png"></th> 
+  </tr>
 </table>
+
+<p align="center">
+<em>Profit & loss da operação da Minilift DIY.</em>
+</p>
+
+<br>
 
 **Financiamento** <br> 
 Todas as etapas de expansão previstas no plano serão financiadas por capital de risco e a principal regra de saída para atrair investidores é a recompra das participações pelos sócios originais. 
