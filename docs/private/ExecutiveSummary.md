@@ -139,6 +139,10 @@ As simulações financeiras do plano de negócios mostram que, com um investimen
 </table>
 
 <p align="center">
+<img src="img/dre_anos15.png" height="320" width="320">
+</p>
+
+<p align="center">
 <em>Profit & loss da operação da Minilift DIY.</em>
 </p>
 
