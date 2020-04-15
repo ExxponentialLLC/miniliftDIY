@@ -76,12 +76,12 @@ Resumen del roadshow de recaudación de fondos de 2020.
 <a name="portuguese"></a> 
 <br>
 
-### MINILIFT-DIY - SUMÁRIO EXECUTIVO 
+## MINILIFT-DIY - SUMÁRIO EXECUTIVO 
 
-**A oportunidade e a proposta** <br>
-A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores de duas paradas **revolucionária** por sua **simplicidade**, **eficácia** de operação, **consumo** de energia e baixo **impacto ao meio ambiente**.
+## A oportunidade e a proposta
+A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores residenciais compactos de duas paradas, **revolucionários** por sua **simplicidade**, **eficácia**, **baixo consumo de energia** e **baixo impacto ambiental**.
 
-A empresa tem encontrado uma aceitação muito boa do produto no mercado americano, o que pode ser comprovado com um indicador NPS acima de 8 entre seus clientes. 
+A empresa tem encontrado uma aceitação muito boa dos produtos no mercado americano, o que pode ser comprovado com um indicador Net Promoter Score (NPS) acima de 8 entre seus clientes. 
 
 <table style="width:100%">
   <tr>
@@ -91,62 +91,68 @@ A empresa tem encontrado uma aceitação muito boa do produto no mercado america
 </table>
 
 <p align="center">
-<em><a href="https://youtu.be/WyKZC7nhQZw">Vídeo</a> do funcionamento do MiniLift Nano.</em>
+<em><a href="https://youtube.com">Vídeo</a> do funcionamento do MiniLift Nano.</em>
 </p>
 
 <br>
 
-A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre eles: (1) seu **baixo preço** e simplicidade (2) a boa dispersão da população de classe média; (3) a alta incidência de casas de dois andares e; (4) um pujante mercado de **acessibilidade** individual, puxado, sobretudo, por idosos e portadores de deficiência, entre estes, os veteranos de guerra. 
+A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre eles:
+- O crescente mercado de **acessibilidade individual**, puxado por idosos e portadores de deficiência, entre estes, os veteranos de guerra;
+- A dispersão populacional e alta incidência de casas de dois andares;
+- A ótima relação entre preço e benefício, se comparado com as demais opções de acessibilidade individual disponíveis no mercado.    
 
-Todos esses fatores apontam para um crescimento promissor da Exxponential e uma crescente **popularização do conceito** de acessibilidade da linha MinniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. Trata-se de uma operação bastante rápida e simples, mas que frequentemente exige alguma **complexidade logística** porque emvolve **deslocamentos**, despesas com **hospedagem** e **mão de obra especializada**.
+Todos esses fatores apontam para um crescimento promissor da Exxponential e uma crescente **popularização do conceito** de acessibilidade da linha MinniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. 
 
-Por outro lado, o mercado americano é bastante receptivo ao conceito “**Do It Yourself (DIY)** ”, no qual o próprio cliente monta e instala um determinado equipamento, quase sempre em troca da redução do preço do mesmo equipamento quando montado e instalado por terceiros. 
+A instalação do Minnilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.
 
-Diante deste cenário, os idealizadores do **projeto Minilift DIY** viram-se diante de uma excelente oportunidade de negócios. Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
+Por outro lado, o mercado americano é bastante receptivo ao conceito **“ *do it yourself (DIY)* ”**, no qual o próprio cliente monta e instala um determinado equipamento em troca da **redução do preço** e da **satisfação pessoal** por realizar a atividade manual.
 
 **O negócio e a execução** <br>
-Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através do **varejo massivo** dos USA, starting with initial focus on retailing network like Home Depot, Ace Hardware, Costco and BJs.
+Diante deste cenário, os empreendedores entendem que configurou-se uma excelente oportunidade de negócios. Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
+
+Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.
 
 <p align="center">
-    <img src="img/Home Depot logo low.png" height="50">
-    |
-    <img src="img/Ace_Hardware_Logo_low_2.png" height="50">
-    '      
-    <img src="img/Costco.png" height="50">
-    '        
-    <img src="img/bjs_logo_new_2.jpg" height="50">
+    <img src="img/Home Depot logo low.png" height="60">
+    <img src="img/Ace_Hardware_Logo_low_2.png" height="60">
+    <img src="img/Costco.png" height="60">     
+    <img src="img/bjs_logo_new_2.jpg" height="60">
 </p>
 
 <p align="center">
-<em>Empresas de varejo de massa nos EUA.</em>
+<em>Rede de varejo com grande capiladirade nos EUA.</em>
 </p>
 
 <br>
 
-Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distribuindo a linha de elevadores da forma tradicional, ou seja, continuar executando instalações e assistência técnica do equipamento em todo território dos USA.
+Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empresa pretende continuar comercializando a linha de elevadores da forma tradicional, ou seja, continuará executando instalações e assistência técnica do equipamento em todo território dos USA.
 
-As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
+As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa. 
 
 <p align="center">
-<img src="img/dre_anos15.png" width="500">
+<img src="img/dre_anos15.png" width="600">
 </p>
 
 <p align="center">
-<em>Profit & loss da operação da Minilift DIY.</em>
+<em>Profit & loss da operação da Minilift DIY entre os anos 1 e 5.</em>
 </p>
 
 <br> 
 
 **Financiamento** <br> 
-Todas as etapas de expansão previstas no plano serão financiadas por capital de risco e a principal regra de saída para atrair investidores é a recompra das participações pelos sócios originais. 
+Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
 
-O objetivo do atual roadshow, publicado em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> , é a captação de quatro quotas de US $ XX.000 para desenvolver o projeto, fabricar e importar para os USA um estoque mínimo e iniciar a operação comercial na cidade de Miami, FL.
+O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em **cinco quotas** de US $ 150.000, com a finalidade de:
+- Iniciar a operação comercial na cidade de Miami, FL;
+- Concluir o **projeto** de adaptação para o modelo DIY;
+- Iniciar as negociações com as redes de varejo;
+- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
+
+A captação da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> considera a *valuation* prévia de US $ 11,2 milhões para a empresa.
 
 ... 
 
-*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
-
-
+*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY 2020.1 NDA</a>.*
 
 
 <br>
