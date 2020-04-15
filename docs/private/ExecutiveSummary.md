@@ -128,7 +128,7 @@ As simulações financeiras do plano de negócios mostram que, com um investimen
 
 <table style="width:50%">
   <tr>
-    <th><img src="img/dre_anos15.png"></th> 
+    <td width="50%"><img src="img/dre_anos15.png"></th> 
   </tr>
 </table>
 
