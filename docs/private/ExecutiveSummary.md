@@ -126,27 +126,14 @@ Apesar do  foco na distribuição DIY, a nova empresa pretende continuar distrib
 
 As simulações financeiras do plano de negócios mostram que, com um investimento inicial mínimo de US $ XX.000, é possível atingir uma base de XXX elevadores vendidos e receitas líquidas de US $ XX milhões (EBITDA 55% RL) no quinto ano de operação da empresa. 
 
-<table style="width:100%" border="0" align="center">
-  <tr>
-    <th>teste</th> 
-  </tr>
-</table>
-
-<table border="0" align="center">
-  <tr>
-    <th><img src="img/dre_anos15.png" height="320" width="320"></th> 
-  </tr>
-</table>
-
 <p align="center">
-<img src="img/dre_anos15.png" height="320" width="320">
+<img src="img/dre_anos15.png" width="500">
 </p>
 
 <p align="center">
 <em>Profit & loss da operação da Minilift DIY.</em>
 </p>
 
-<br>
 
 **Financiamento** <br> 
 Todas as etapas de expansão previstas no plano serão financiadas por capital de risco e a principal regra de saída para atrair investidores é a recompra das participações pelos sócios originais. 
