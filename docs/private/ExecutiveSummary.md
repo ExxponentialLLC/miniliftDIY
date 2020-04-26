@@ -101,7 +101,7 @@ A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre
 - A dispersão populacional e alta incidência de casas de dois andares;
 - A ótima relação entre preço e benefício, se comparado com as demais opções de acessibilidade individual disponíveis no mercado.    
 
-Todos esses fatores apontam para um crescimento promissor da Exxponential e uma crescente **popularização do conceito** de acessibilidade da linha MinniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. 
+Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e uma crescente **popularização do conceito** de acessibilidade da linha MiniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. 
 
 A instalação do Minnilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.
 
@@ -152,7 +152,7 @@ O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em *
 - Iniciar as negociações com as redes de varejo;
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
 
-A captação da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> considera a *valuation* prévia de US $ 11,2 milhões para a empresa.
+A captação da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> considera a *valuation* prévia de US $ 11,3 milhões para a empresa.
 
 ... 
 
