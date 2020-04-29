@@ -81,14 +81,14 @@ Resumen del roadshow de recaudación de fondos de 2020.
 ### A oportunidade 
 A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores residenciais compactos de duas paradas, **revolucionários** por sua **simplicidade**, **eficácia**, **baixo consumo de energia** e **baixo impacto ambiental**.
 
-A empresa tem encontrado uma aceitação muito boa dos produtos no mercado americano, o que pode ser comprovado com um indicador Net Promoter Score (NPS) acima de 8 entre seus clientes.<br><br>
+A empresa tem encontrado uma aceitação muito boa dos equipamentos no mercado americano, o que pode ser comprovado com um indicador Net Promoter Score (NPS) acima de 8 entre seus clientes.<br><br>
 
 <p align="center">
     <img src="img/simulacao1.png" height="280">
 </p>
 
 <p align="center">
-<em>Videos do funcionamento do MiniLift <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
+<em>Videos do funcionamento do MiniLift: <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
 </p>
 
 <br>
@@ -103,7 +103,7 @@ A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre
 </p>
 
 <p align="center">
-<em>Distribuição da população 65+.</em>
+<em>Distribuição da população 65+ nos USA.</em>
 </p>
 
 <br> 
@@ -124,10 +124,9 @@ A instalação do Minnilift é uma operação bastante rápida e simples, mas qu
 
 <br> 
 
-**A proposta** <br> 
-Por outro lado, o mercado americano é bastante receptivo ao conceito **“ *do it yourself (DIY)* ”**, no qual o próprio cliente monta e instala um determinado equipamento em troca da **redução do preço** e da **satisfação pessoal** por realizar a atividade manual.
-
 ### O negócio
+Se por um lado o preço do elevador é impactado pela instalação do equipamento. Por outro lado, o mercado americano é bastante receptivo ao conceito **“ *do it yourself (DIY)* ”**, no qual o próprio cliente monta e instala um determinado equipamento em troca da **redução do preço** e da **satisfação pessoal** por realizar a atividade manual.
+
 Diante deste cenário, os empreendedores entendem que configurou-se uma excelente oportunidade de negócios. Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
 
 Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.<br><br>
@@ -163,10 +162,15 @@ As simulações financeiras do plano de negócios mostram que, com um **investim
 ### Financiamento
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
 
-O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em **cinco quotas** de US $ 150.000, com a finalidade de:
-- Iniciar a operação comercial na cidade de Miami, FL;
+O objetivo do atual roadshow é a captação alvo de US $ 250.000 a título de seed capital para:
 - Concluir o **projeto** de adaptação para o modelo DIY;
 - Iniciar as negociações com as redes de varejo;
+- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano. 
+
+Na etapa seguinte (Series A), o objetivo é captar US $ 500.000, dividida em **cinco quotas** de US $ 100.000, com a finalidade de:
+- Iniciar a operação comercial na cidade de Miami, FL;
+- Terminar os testes de campo dos modelos DIY;
+- Concluir as negociações com as redes de varejo;
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;<br><br> 
 
 <p align="center">
