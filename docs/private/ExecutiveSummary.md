@@ -152,68 +152,68 @@ The capture of **Seed capital** and **Series A** published at <a href="https://w
 Resumen del roadshow de recaudación de fondos de 2020.
 
 ### La oportunidad
-La compañía Exxponential LLC importa e instala ** MiniLift ** en los EE. UU., Una línea de elevadores residenciales compactos de dos paradas, ** revolucionaria ** por su ** simplicidad **, ** eficiencia **, ** bajo consumo de energía energía ** y ** bajo impacto ambiental **.
+La compañía Exxponential LLC importa e instala **MiniLift** en los EE. UU., Una línea de elevadores residenciales compactos de dos paradas, **revolucionaria** por su **simplicidad**, **eficiencia**, **bajo consumo de energía energía** y **bajo impacto ambiental**.
 
 La compañía ha encontrado una muy buena aceptación de los equipos en el mercado estadounidense, que se puede probar con un indicador de Net Promoter Score (NPS) superior a 8 entre sus clientes. <br> <br>
 
-<p align = "center">
-    <img src = "img / simulacao1.png" height = "280">
+<p align="center">
+    <img src="img/simulacao1.png" height="280">
 </p>
 
-<p align = "center">
+<p align="center">
 <em> Videos de la operación MiniLift: <a href="https://www.youtube.com/watch?v=fyCBqfOozSE"> Video 1 </a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac"> Video 2 </a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s"> Video 3 </a>. </em>
 </p>
 
 <br>
 
 La buena recepción de MiniLift en los Estados Unidos se explica por varios factores, entre ellos:
-- El creciente mercado de ** accesibilidad individual **, impulsado por los ancianos y los discapacitados, incluidos los veteranos de guerra;
+- El creciente mercado de **accesibilidad individual**, impulsado por los ancianos y los discapacitados, incluidos los veteranos de guerra;
 - Dispersión de la población y alta incidencia de casas de dos pisos;
 - La excelente relación entre precio y beneficio, en comparación con las otras opciones de accesibilidad individual disponibles en el mercado. <br> <br>
 
-<p align = "center">
-<img src = "img / usa + 65.jpg" width = "400">
+<p align="center">
+<img src="img/usa+65.jpg" width="400">
 </p>
 
-<p align = "center">
+<p align="center">
 <em> Distribución de la población de más de 65 años en los Estados Unidos. </em>
 </p>
 
 <br>
 
-Todos estos factores apuntan a un crecimiento prometedor de Exxponential LLC y una creciente ** popularización del concepto ** de accesibilidad de la línea MiniLift en los próximos años. Sin embargo, después del primer año de operación en los EE. UU., Los empresarios al frente del negocio descubrieron que una parte significativa del precio final del equipo es el resultado del costo agregado para instalar el equipo.
+Todos estos factores apuntan a un crecimiento prometedor de Exxponential LLC y una creciente **popularización del concepto** de accesibilidad de la línea MiniLift en los próximos años. Sin embargo, después del primer año de operación en los EE. UU., Los empresarios al frente del negocio descubrieron que una parte significativa del precio final del equipo es el resultado del costo agregado para instalar el equipo.
 
-** Instalación ** <br>
-La instalación de Minnilift es una operación muy rápida y simple, pero que a menudo implica cierta ** complejidad logística ** cuando requiere ** viajes ** y ** alojamiento ** de técnicos, especialmente para las regiones interiores de los estados. <br> <br>
+**Instalación** <br>
+La instalación de Minnilift es una operación muy rápida y simple, pero que a menudo implica cierta **complejidad logística** cuando requiere **viajes** y **alojamiento** de técnicos, especialmente para las regiones interiores de los estados. <br> <br>
 
 
-<p align = "center">
-<img src = "img / clients-compilation.jpg" width = "500">
+<p align="center">
+<img src="img/clients-compilation.jpg" width="500">
 </p>
 
-<p align = "center">
+<p align="center">
 <em> Equipo instalado en los EE. UU. </em>
 </p>
 
 <br>
 
 ### El negocio
-Por un lado, el precio del elevador se ve afectado por los costos de instalación del equipo. Por otro lado, el mercado estadounidense es muy receptivo a ** "* hágalo usted mismo (DIY) *" **, un concepto en el que el cliente ensambla e instala un cierto equipo a cambio de diferentes beneficios, incluida la reducción ** precio ** y ** satisfacción personal ** por realizar actividad manual.
+Por un lado, el precio del elevador se ve afectado por los costos de instalación del equipo. Por otro lado, el mercado estadounidense es muy receptivo a **"*hágalo usted mismo (DIY)*"**, un concepto en el que el cliente ensambla e instala un cierto equipo a cambio de diferentes beneficios, incluida la reducción **precio** y **satisfacción personal** por realizar actividad manual.
 
 Frente a este escenario, los empresarios entienden que se ha configurado una excelente oportunidad de negocio para ser explorada.
 
-En los últimos meses, han investigado y encontrado formas viables de ** adaptar el proyecto actual ** de la línea MiniLift a la modalidad de bricolaje y, por lo tanto, reducir considerablemente el precio del equipo para el consumidor final.
+En los últimos meses, han investigado y encontrado formas viables de **adaptar el proyecto actual** de la línea MiniLift a la modalidad de bricolaje y, por lo tanto, reducir considerablemente el precio del equipo para el consumidor final.
 
-Luego, los empresarios desarrollaron un plan de negocios para la creación de la compañía ** MiniLift-DIY **, especializada en distribuir la línea MiniLift en el concepto de bricolaje a través de las principales ** cadenas minoristas ** en los EE. UU., Como * Home Depot, Ace Hardware, Costco y BJs *. <br> <br>
+Luego, los empresarios desarrollaron un plan de negocios para la creación de la compañía **MiniLift-DIY**, especializada en distribuir la línea MiniLift en el concepto de bricolaje a través de las principales **cadenas minoristas** en los EE. UU., Como *Home Depot, Ace Hardware, Costco y BJs*. <br> <br>
 
-<p align = "center">
-    <img src = "img / Logo de Home Depot low.png" height = "60">
-    <img src = "img / Ace_Hardware_Logo_low_2.png" height = "60">
-    <img src = "img / Costco.png" height = "60">
-    <img src = "img / bjs_logo_new_2.jpg" height = "60">
+<p align="center">
+    <img src="img/Logo de Home Depot low.png" height="60">
+    <img src="img/Ace_Hardware_Logo_low_2.png" height="60">
+    <img src="img/Costco.png" height="60">
+    <img src="img/bjs_logo_new_2.jpg" height="60">
 </p>
 
-<p align = "center">
+<p align="center">
 <em> Cadena minorista con gran capilairade en los EE. UU. </em>
 </p>
 
@@ -222,30 +222,36 @@ Luego, los empresarios desarrollaron un plan de negocios para la creación de la
 A pesar del enfoque en la distribución del modelo de bricolaje en las cadenas minoristas, la nueva compañía tiene la intención de continuar vendiendo la línea de elevadores de la manera tradicional, es decir, continuará llevando a cabo instalaciones y asistencia técnica para el equipo en todo Estados Unidos.
 
 ### La ejecución
-Las simulaciones financieras del plan de negocios muestran que, con una ** inversión inicial ** de US $ 750,000, es posible alcanzar una base instalada de 700 ascensores e ** ingresos netos ** de US $ 3.3 millones (EBITDA 32% RL) en el ** quinto año ** de la operación de la compañía. <br> <br>
+Las simulaciones financieras del plan de negocios muestran que, con una **inversión inicial** de US $ 750,000, es posible alcanzar una base instalada de 700 ascensores e **ingresos netos** de US $ 3.3 millones (EBITDA 32% RL) en el **quinto año** de la operación de la compañía. <br> <br>
 
-<p align = "center">
-<img src = "img / dre_anos15.png" width = "600">
+<p align="center">
+<img src="img/dre_anos15.png" width="600">
 </p>
 
-<p align = "center">
+<p align="center">
 <em> Ganancias y pérdidas de la operación Minilift DIY entre los años 1 y 5. </em>
 </p>
 
 <br>
 
 ### Financiamiento
-Todos los pasos previstos en el plan de negocios serán financiados por ** capital de riesgo ** y la principal regla general para atraer inversores es la ** recompra ** de las acciones por parte de los socios originales.
+Todos los pasos previstos en el plan de negocios serán financiados por **capital de riesgo** y la principal regla general para atraer inversores es la **recompra** de las acciones por parte de los socios originales.
 
-El objetivo del ** roadshow actual ** es recaudar $ 250,000 como objetivo ** capital semilla ** para:
-- Completa el ** proyecto de adaptación ** para el modelo DIY;
+El objetivo del **roadshow actual** es recaudar $ 250,000 como objetivo **capital semilla** para:
+- Completa el **proyecto de adaptación** para el modelo DIY;
 - Iniciar negociaciones con cadenas minoristas;
 - Desarrollar el plan de negocios y promover el roadshow para recaudar fondos para la próxima etapa del plan. <br> <br>
 
 <p align = "center">
-    <img src = "img / duo-draft.png" height = "200">
+    <img src="img/duo-draft.png" height="200">
     .
-    <img src = "img / nano-draft.png" height = "2
+    <img src="img/nano-draft.png" height="200">
+    
+<br>
+
+... 
+
+<br>
 
 *1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
 
