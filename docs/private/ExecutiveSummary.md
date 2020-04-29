@@ -88,7 +88,7 @@ A empresa tem encontrado uma aceitação muito boa dos produtos no mercado ameri
 </p>
 
 <p align="center">
-<em>Videos do funcionamento do MiniLift <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a>.</em>
+<em>Videos do funcionamento do MiniLift <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
 </p>
 
 <br>
