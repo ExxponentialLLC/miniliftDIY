@@ -99,7 +99,17 @@ A empresa tem encontrado uma aceitação muito boa dos produtos no mercado ameri
 A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre eles:
 - O crescente mercado de **acessibilidade individual**, puxado por idosos e portadores de deficiência, entre estes, os veteranos de guerra;
 - A dispersão populacional e alta incidência de casas de dois andares;
-- A ótima relação entre preço e benefício, se comparado com as demais opções de acessibilidade individual disponíveis no mercado.    
+- A ótima relação entre preço e benefício, se comparado com as demais opções de acessibilidade individual disponíveis no mercado.<br><br>   
+
+<p align="center">
+<img src="img/usa+65.jpg" width="600">
+</p>
+
+<p align="center">
+<em>Distribuição da população 65+.</em>
+</p>
+
+<br> 
 
 Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e uma crescente **popularização do conceito** de acessibilidade da linha MiniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. 
 
