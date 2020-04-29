@@ -81,10 +81,10 @@ The entrepreneurs then developed a business plan for the creation of the company
 
 <br>
 
-Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empresa pretende continuar comercializando a linha de elevadores da forma tradicional, ou seja, continuará executando instalações e assistência técnica do equipamento em todo território dos USA.
+Despite the focus on distributing the DIY model in retail chains, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
 
-### A execução
-As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
+### The execution
+The financial simulations of the business plan show that, with an ** initial investment ** of US $ 750,000, it is possible to reach an installed base of 700 elevators and ** net revenues ** of US $ 3.3 million (EBITDA 32% RL) in the ** fifth year ** of the company's operation. <br> <br>
 
 <p align="center">
 <img src="img/dre_anos15.png" width="600">
@@ -96,13 +96,13 @@ As simulações financeiras do plano de negócios mostram que, com um **investim
 
 <br> 
 
-### Financiamento
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
+### Financing
+All steps provided for in the business plan will be financed by ** venture capital ** and the main rule of thumb to attract investors is the ** repurchase ** of the shares by the original partners.
 
-O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para:
-- Concluir o **projeto** de adaptação para o modelo DIY;
-- Iniciar as negociações com as redes de varejo;
-- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
+The objective of the ** current roadshow ** is to raise $ 250,000 as a target ** seed capital ** to:
+- Complete the ** adaptation project ** for the DIY model;
+- Start negotiations with retail chains;
+- Develop the business plan and promote the roadshow to raise funds for the next stage of the plan. <br> <br>
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -116,15 +116,17 @@ O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título 
 
 <br>
 
-Na etapa seguinte (Series A), o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
-- Iniciar a operação comercial na cidade de Miami, FL;
-- Terminar os testes de campo dos modelos Minilift DIY;
-- Concluir as negociações com as redes de varejo;
-- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
+In the next stage (Series A), the objective is to raise an additional US $ 500,000, divided into ** two quotas ** of US $ 250,000, with the purpose of:
+- Start commercial operation in the city of Miami, FL;
+- Finish the field tests of the Minilift DIY models;
+- Conclude negotiations with retail chains;
+- ** Manufacture ** and import ** minimum inventory ** to the USA capable of meeting demand safely;
 
-A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *valuation* prévia da Exxponential LLC de US $ 11,3 milhões para a empresa.
+The capture of ** Seed capital ** and ** Series A ** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </ a > consider Exxponential LLC's prior * valuation * of $ 11.3 million for the company.
 
-... 
+...
+
+*1. The Non Disclousure Agreement for access to the ** executive summary ** of the business plan is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL"> MiniliftDIY 2020.1 NDA </a>. *
 
 *1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY 2020.1 NDA</a>.*
 
