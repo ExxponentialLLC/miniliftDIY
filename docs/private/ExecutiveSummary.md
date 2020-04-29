@@ -66,7 +66,7 @@ Faced with this scenario, entrepreneurs understand that an excellent business op
 
 Over the past few months, they have researched and found viable ways to **adapt the current project** of the MiniLift line to the DIY modality and, thus, considerably reduce the price of the equipment to the final consumer.
 
-The entrepreneurs then developed a business plan for the creation of the company **MiniLift-DIY**, specialized in distributing the MiniLift line in the DIY concept through the main ** retail chains ** in the USA, such as *Home Depot, Ace Hardware, Costco and BJs*. <br> <br>
+The entrepreneurs then developed a business plan for the creation of the company **MiniLift-DIY**, specialized in distributing the MiniLift line in the DIY concept through the main **retail chains** in the USA, such as *Home Depot, Ace Hardware, Costco and BJs*. <br> <br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
@@ -84,7 +84,7 @@ The entrepreneurs then developed a business plan for the creation of the company
 Despite the focus on distributing the DIY model in retail chains, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
 
 ### The execution
-The financial simulations of the business plan show that, with an ** initial investment ** of US $ 750,000, it is possible to reach an installed base of 700 elevators and ** net revenues ** of US $ 3.3 million (EBITDA 32% RL) in the ** fifth year ** of the company's operation. <br> <br>
+The financial simulations of the business plan show that, with an **initial investment** of US $ 750,000, it is possible to reach an installed base of 700 elevators and **net revenues** of US $ 3.3 million (EBITDA 32% RL) in the **fifth year** of the company's operation. <br> <br>
 
 <p align="center">
 <img src="img/dre_anos15.png" width="600">
@@ -97,10 +97,10 @@ The financial simulations of the business plan show that, with an ** initial inv
 <br> 
 
 ### Financing
-All steps provided for in the business plan will be financed by ** venture capital ** and the main rule of thumb to attract investors is the ** repurchase ** of the shares by the original partners.
+All steps provided for in the business plan will be financed by **venture capital** and the main rule of thumb to attract investors is the **repurchase** of the shares by the original partners.
 
-The objective of the ** current roadshow ** is to raise $ 250,000 as a target ** seed capital ** to:
-- Complete the ** adaptation project ** for the DIY model;
+The objective of the **current roadshow** is to raise $ 250,000 as a target **seed capital** to:
+- Complete the **adaptation project** for the DIY model;
 - Start negotiations with retail chains;
 - Develop the business plan and promote the roadshow to raise funds for the next stage of the plan. <br> <br>
 
@@ -116,13 +116,13 @@ The objective of the ** current roadshow ** is to raise $ 250,000 as a target **
 
 <br>
 
-In the next stage (Series A), the objective is to raise an additional US $ 500,000, divided into ** two quotas ** of US $ 250,000, with the purpose of:
+In the next stage (Series A), the objective is to raise an additional US $ 500,000, divided into **two quotas** of US $ 250,000, with the purpose of:
 - Start commercial operation in the city of Miami, FL;
 - Finish the field tests of the Minilift DIY models;
 - Conclude negotiations with retail chains;
-- ** Manufacture ** and import ** minimum inventory ** to the USA capable of meeting demand safely;
+- **Manufacture** and import **minimum inventory** to the USA capable of meeting demand safely;
 
-The capture of ** Seed capital ** and ** Series A ** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </ a > consider Exxponential LLC's prior * valuation * of $ 11.3 million for the company.
+The capture of **Seed capital** and **Series A** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </a> consider Exxponential LLC's *prior valuation* of $ 11.3 million for the company.
 
 ...
 
