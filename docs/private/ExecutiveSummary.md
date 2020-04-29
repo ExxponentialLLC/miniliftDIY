@@ -88,7 +88,7 @@ A empresa tem encontrado uma aceitação muito boa dos equipamentos no mercado a
 </p>
 
 <p align="center">
-<em>Videos do funcionamento do MiniLift: <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
+<em>Videos do funcionamento do MiniLift:  <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
 </p>
 
 <br>
@@ -125,11 +125,13 @@ A instalação do Minnilift é uma operação bastante rápida e simples, mas qu
 <br> 
 
 ### O negócio
-Se por um lado o preço do elevador é impactado pela instalação do equipamento. Por outro lado, o mercado americano é bastante receptivo ao conceito **“ *do it yourself (DIY)* ”**, no qual o próprio cliente monta e instala um determinado equipamento em troca da **redução do preço** e da **satisfação pessoal** por realizar a atividade manual.
+Se por um lado o preço do elevador é impactado pelos custos de instalação do equipamento. Por outro lado, o mercado americano é bastante receptivo ao **“ *do it yourself (DIY)* ”**, conceito no qual o próprio cliente monta e instala um determinado equipamento em troca de benefícios diversos, entre eles a **redução do preço** e a **satisfação pessoal** por realizar a atividade manual.
 
-Diante deste cenário, os empreendedores entendem que configurou-se uma excelente oportunidade de negócios. Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
+Diante deste cenário, os empreendedores entendem que configurou-se uma excelente oportunidade de negócios a ser explorada. 
 
-Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.<br><br>
+Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
+
+Os empreendedores elaboraram então um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.<br><br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
@@ -160,18 +162,12 @@ As simulações financeiras do plano de negócios mostram que, com um **investim
 <br> 
 
 ### Financiamento
-Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
 
-O objetivo do atual roadshow é a captação alvo de US $ 250.000 a título de seed capital para:
+O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para:
 - Concluir o **projeto** de adaptação para o modelo DIY;
 - Iniciar as negociações com as redes de varejo;
-- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano. 
-
-Na etapa seguinte (Series A), o objetivo é captar US $ 500.000, dividida em **cinco quotas** de US $ 100.000, com a finalidade de:
-- Iniciar a operação comercial na cidade de Miami, FL;
-- Terminar os testes de campo dos modelos DIY;
-- Concluir as negociações com as redes de varejo;
-- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;<br><br> 
+- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
 
 <p align="center">
     <img src="img/nano-draft.png" height="200">
@@ -180,12 +176,18 @@ Na etapa seguinte (Series A), o objetivo é captar US $ 500.000, dividida em **c
 </p>
 
 <p align="center">
-<em>Linha Minilift DIY nos USA.</em>
+<em>Esquema conceitual da linha Minilift DIY nos USA.</em>
 </p>
 
 <br>
 
-A captação da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> considera a *valuation* prévia de US $ 11,3 milhões para a empresa.
+Na etapa seguinte (Series A), o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
+- Iniciar a operação comercial na cidade de Miami, FL;
+- Terminar os testes de campo dos modelos Minilift DIY;
+- Concluir as negociações com as redes de varejo;
+- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
+
+A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *valuation* prévia da Exxponential LLC de US $ 11,3 milhões para a empresa.
 
 ... 
 
