@@ -167,7 +167,7 @@ O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em *
 - Iniciar a operação comercial na cidade de Miami, FL;
 - Concluir o **projeto** de adaptação para o modelo DIY;
 - Iniciar as negociações com as redes de varejo;
-- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
+- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;<br><br> 
 
 <p align="center">
     <img src="img/nano-draft.png" width="200">
