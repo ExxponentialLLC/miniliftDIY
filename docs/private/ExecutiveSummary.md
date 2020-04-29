@@ -357,8 +357,11 @@ As simulações financeiras do plano de negócios mostram que, com um **investim
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
 
 O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para:
+- Iniciar a operação comercial na cidade de Miami, FL;
 - Concluir o **projeto** de adaptação para o modelo DIY;
+- testes 
 - Iniciar as negociações com as redes de varejo;
+- Mostruário... 
 - Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
 
 <p align="center">
@@ -374,7 +377,7 @@ O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título 
 <br>
 
 Na etapa seguinte (Series A), o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
-- Iniciar a operação comercial na cidade de Miami, FL;
+
 - Terminar os testes de campo dos modelos Minilift DIY;
 - Concluir as negociações com as redes de varejo;
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
