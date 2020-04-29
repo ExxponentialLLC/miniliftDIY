@@ -24,7 +24,7 @@ The company has found very good acceptance of the equipment in the American mark
 </p>
 
 <p align="center">
-<em>Videos do funcionamento do MiniLift:  <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
+<em>MiniLift operation videos: <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Video 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Video 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Video 3</a>.</em>
 </p>
 
 <br>
@@ -39,7 +39,7 @@ The good reception of MiniLift in the USA is explained by several factors, among
 </p>
 
 <p align="center">
-<em>Distribuição da população 65+ nos USA.</em>
+<em>Distribution of the 65+ population in the USA.</em>
 </p>
 
 <br> 
@@ -54,7 +54,7 @@ The installation of Minnilift is a very quick and simple operation, but one that
 </p>
 
 <p align="center">
-<em>Equipamentos instalados no USA.</em>
+<em>Equipment installed in the USA.</em>
 </p>
 
 <br> 
@@ -76,7 +76,7 @@ The entrepreneurs then developed a business plan for the creation of the company
 </p>
 
 <p align="center">
-<em>Rede de varejo com grande capilairade nos USA.</em>
+<em>Retail chain with great capilairade in the USA.</em>
 </p>
 
 <br>
@@ -91,7 +91,7 @@ The financial simulations of the business plan show that, with an ** initial inv
 </p>
 
 <p align="center">
-<em>Profit & loss da operação da Minilift DIY entre os anos 1 e 5.</em>
+<em>Profit & loss of Minilift DIY operation between years 1 and 5.</em>
 </p>
 
 <br> 
@@ -111,7 +111,7 @@ The objective of the ** current roadshow ** is to raise $ 250,000 as a target **
 </p>
 
 <p align="center">
-<em>Esquema conceitual da linha Minilift DIY nos USA.</em>
+<em>Conceptual scheme of the Minilift DIY line in the USA.</em>
 </p>
 
 <br>
@@ -123,15 +123,6 @@ In the next stage (Series A), the objective is to raise an additional US $ 500,0
 - ** Manufacture ** and import ** minimum inventory ** to the USA capable of meeting demand safely;
 
 The capture of ** Seed capital ** and ** Series A ** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </ a > consider Exxponential LLC's prior * valuation * of $ 11.3 million for the company.
-
-...
-
-*1. The Non Disclousure Agreement for access to the ** executive summary ** of the business plan is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL"> MiniliftDIY 2020.1 NDA </a>. *
-
-*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY 2020.1 NDA</a>.*
-
-
-<br>
 
 ...
 
