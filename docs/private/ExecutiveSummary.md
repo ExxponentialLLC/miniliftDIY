@@ -170,9 +170,9 @@ O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título 
 - Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
 
 <p align="center">
-    <img src="img/nano-draft.png" height="200">
-    .
     <img src="img/duo-draft.png" height="200">
+    .
+    <img src="img/nano-draft.png" height="200">
 </p>
 
 <p align="center">
