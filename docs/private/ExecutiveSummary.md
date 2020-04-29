@@ -102,7 +102,7 @@ A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre
 - A ótima relação entre preço e benefício, se comparado com as demais opções de acessibilidade individual disponíveis no mercado.<br><br>   
 
 <p align="center">
-<img src="img/usa+65.jpg" width="600">
+<img src="img/usa+65.jpg" width="400">
 </p>
 
 <p align="center">
@@ -113,9 +113,20 @@ A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre
 
 Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e uma crescente **popularização do conceito** de acessibilidade da linha MiniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. 
 
-A instalação do Minnilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.
+A instalação do Minnilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.<br><br>
 
-**A proposta** 
+
+<p align="center">
+<img src="clientes-compilation.jpg" width="400">
+</p>
+
+<p align="center">
+<em>Equipamentos instalados no USA.</em>
+</p>
+
+<br> 
+
+**A proposta** <br> 
 Por outro lado, o mercado americano é bastante receptivo ao conceito **“ *do it yourself (DIY)* ”**, no qual o próprio cliente monta e instala um determinado equipamento em troca da **redução do preço** e da **satisfação pessoal** por realizar a atividade manual.
 
 
@@ -161,6 +172,19 @@ O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em *
 - Concluir o **projeto** de adaptação para o modelo DIY;
 - Iniciar as negociações com as redes de varejo;
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
+
+<table style="width:100%">
+  <tr>
+    <th><img src="img/nano-draft.png"></th> 
+    <th><img src="img/duo-draft.png"></th> 
+  </tr>
+</table>
+
+<p align="center">
+<em><a href="https://youtube.com">Vídeo</a> do funcionamento do MiniLift Nano.</em>
+</p>
+
+<br>
 
 A captação da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> considera a *valuation* prévia de US $ 11,3 milhões para a empresa.
 
