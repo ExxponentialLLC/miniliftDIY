@@ -323,7 +323,11 @@ Diante deste cenário, os empreendedores entendem que configurou-se uma excelent
 
 Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
 
-Os empreendedores elaboraram então um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.<br><br>
+Os empreendedores elaboraram então um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.
+
+4.000 lojas 
+
+<br><br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
