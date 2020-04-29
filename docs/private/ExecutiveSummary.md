@@ -88,7 +88,7 @@ A empresa tem encontrado uma aceitação muito boa dos produtos no mercado ameri
 </p>
 
 <p align="center">
-<em><a href="https://youtube.com">Vídeo</a> do funcionamento do MiniLift Nano.</em>
+<em><a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo</a> do funcionamento do MiniLift Nano.</em>
 </p>
 
 <br>
@@ -170,9 +170,9 @@ O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em *
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;<br><br> 
 
 <p align="center">
-    <img src="img/nano-draft.png" width="200">
+    <img src="img/nano-draft.png" height="200">
     .
-    <img src="img/duo-draft.png" width="200">
+    <img src="img/duo-draft.png" height="200">
 </p>
 
 <p align="center">
