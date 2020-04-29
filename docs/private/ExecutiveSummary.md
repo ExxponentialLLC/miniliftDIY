@@ -14,14 +14,122 @@
 ### MINILIFT-DIY EXECUTIVE SUMMARY 
 Summary of the 2020 fundraising roadshow. <br>
 
-**THE OPPORTUNITY AND THE PROPOSAL** <br>
-Companies a
+### The oportunity
+The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** for its **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**.
 
-**BUSINESS AND EXECUTION** <br>
-The innovative 
+The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. <br> <br>
 
-**FINANCING** <br>
-All expansion 1
+<p align="center">
+    <img src="img/simulacao1.png" height="280">
+</p>
+
+<p align="center">
+<em>Videos do funcionamento do MiniLift:  <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
+</p>
+
+<br>
+
+The good reception of MiniLift in the USA is explained by several factors, among them:
+- The growing market for **individual accessibility**, driven by the elderly and the disabled, including veterans of war;
+- Population dispersion and high incidence of two-story houses;
+- The excellent relationship between price and benefit, when compared to the other individual accessibility options available on the market. <br> <br> 
+
+<p align="center">
+<img src="img/usa+65.jpg" width="400">
+</p>
+
+<p align="center">
+<em>Distribuição da população 65+ nos USA.</em>
+</p>
+
+<br> 
+
+All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the MiniLift line in the coming years. However, after the first year of operation in the USA, the entrepreneurs at the head of the business found that a significant part of the final price of the equipment is a result of the aggregate cost to install the equipment.
+
+**Installation** <br>
+The installation of Minnilift is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. <br> <br>
+
+<p align="center">
+<img src="img/clientes-compilation.jpg" width="500">
+</p>
+
+<p align="center">
+<em>Equipamentos instalados no USA.</em>
+</p>
+
+<br> 
+
+### The business
+On the one hand, the price of the elevator is impacted by the costs of installing the equipment. On the other hand, the American market is very receptive to **“*do it yourself (DIY)*”**, a concept in which the customer assembles and installs a certain equipment in exchange for various benefits, including the reduction **price** and **personal satisfaction** for performing manual activity.
+
+Faced with this scenario, entrepreneurs understand that an excellent business opportunity has been configured to be explored.
+
+Over the past few months, they have researched and found viable ways to **adapt the current project** of the MiniLift line to the DIY modality and, thus, considerably reduce the price of the equipment to the final consumer.
+
+The entrepreneurs then developed a business plan for the creation of the company **MiniLift-DIY**, specialized in distributing the MiniLift line in the DIY concept through the main ** retail chains ** in the USA, such as *Home Depot, Ace Hardware, Costco and BJs*. <br> <br>
+
+<p align="center">
+    <img src="img/Home Depot logo low.png" height="60">
+    <img src="img/Ace_Hardware_Logo_low_2.png" height="60">
+    <img src="img/Costco.png" height="60">     
+    <img src="img/bjs_logo_new_2.jpg" height="60">
+</p>
+
+<p align="center">
+<em>Rede de varejo com grande capilairade nos USA.</em>
+</p>
+
+<br>
+
+Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empresa pretende continuar comercializando a linha de elevadores da forma tradicional, ou seja, continuará executando instalações e assistência técnica do equipamento em todo território dos USA.
+
+### A execução
+As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
+
+<p align="center">
+<img src="img/dre_anos15.png" width="600">
+</p>
+
+<p align="center">
+<em>Profit & loss da operação da Minilift DIY entre os anos 1 e 5.</em>
+</p>
+
+<br> 
+
+### Financiamento
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
+
+O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para:
+- Concluir o **projeto** de adaptação para o modelo DIY;
+- Iniciar as negociações com as redes de varejo;
+- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
+
+<p align="center">
+    <img src="img/duo-draft.png" height="200">
+    .
+    <img src="img/nano-draft.png" height="200">
+</p>
+
+<p align="center">
+<em>Esquema conceitual da linha Minilift DIY nos USA.</em>
+</p>
+
+<br>
+
+Na etapa seguinte (Series A), o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
+- Iniciar a operação comercial na cidade de Miami, FL;
+- Terminar os testes de campo dos modelos Minilift DIY;
+- Concluir as negociações com as redes de varejo;
+- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
+
+A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *valuation* prévia da Exxponential LLC de US $ 11,3 milhões para a empresa.
+
+... 
+
+*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY 2020.1 NDA</a>.*
+
+
+<br>
 
 ...
 
