@@ -115,7 +115,7 @@ A instalação do Minnilift é uma operação bastante rápida e simples, mas qu
 
 
 <p align="center">
-<img src="img/clientes-compilation.jpg" width="400">
+<img src="img/clientes-compilation.jpg" width="500">
 </p>
 
 <p align="center">
