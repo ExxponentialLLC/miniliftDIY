@@ -188,7 +188,7 @@ La instalación de Minnilift es una operación muy rápida y simple, pero que a 
 
 
 <p align="center">
-<img src="img/clients-compilation.jpg" width="500">
+<img src="img/clientes-compilation.jpg" width="500">
 </p>
 
 <p align="center">
@@ -207,7 +207,7 @@ En los últimos meses, han investigado y encontrado formas viables de **adaptar 
 Luego, los empresarios desarrollaron un plan de negocios para la creación de la compañía **MiniLift-DIY**, especializada en distribuir la línea MiniLift en el concepto de bricolaje a través de las principales **cadenas minoristas** en los EE. UU., Como *Home Depot, Ace Hardware, Costco y BJs*. <br> <br>
 
 <p align="center">
-    <img src="img/Logo de Home Depot low.png" height="60">
+    <img src="img/Home Depot logo low.png" height="60">
     <img src="img/Ace_Hardware_Logo_low_2.png" height="60">
     <img src="img/Costco.png" height="60">
     <img src="img/bjs_logo_new_2.jpg" height="60">
