@@ -117,7 +117,7 @@ A instalação do Minnilift é uma operação bastante rápida e simples, mas qu
 
 
 <p align="center">
-<img src="clientes-compilation.jpg" width="400">
+<img src="img/clientes-compilation.jpg" width="400">
 </p>
 
 <p align="center">
@@ -133,7 +133,7 @@ Por outro lado, o mercado americano é bastante receptivo ao conceito **“ *do 
 **O negócio** <br>
 Diante deste cenário, os empreendedores entendem que configurou-se uma excelente oportunidade de negócios. Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
 
-Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.
+Os empreendedores elaboraram um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.<br><br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
@@ -173,15 +173,15 @@ O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em *
 - Iniciar as negociações com as redes de varejo;
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
 
-<table style="width:100%">
+<p align="center"><table style="width:100%">
   <tr>
     <th><img src="img/nano-draft.png"></th> 
     <th><img src="img/duo-draft.png"></th> 
   </tr>
-</table>
+</table></p> 
 
 <p align="center">
-<em><a href="https://youtube.com">Vídeo</a> do funcionamento do MiniLift Nano.</em>
+<em>Linha minilift DIY nos USA.</em>
 </p>
 
 <br>
