@@ -83,12 +83,9 @@ A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha d
 
 A empresa tem encontrado uma aceitação muito boa dos produtos no mercado americano, o que pode ser comprovado com um indicador Net Promoter Score (NPS) acima de 8 entre seus clientes. 
 
-<table style="width:100%">
-  <tr>
-    <th><img src="img/simulacao1.png"></th> 
-    <th><img src="img/simulacao1.png"></th> 
-  </tr>
-</table>
+<p align="center">
+    <img src="img/simulacao1.png" height="200">
+</p>
 
 <p align="center">
 <em><a href="https://youtube.com">Vídeo</a> do funcionamento do MiniLift Nano.</em>
@@ -143,7 +140,7 @@ Os empreendedores elaboraram um plano de negócios para a criação da empresa *
 </p>
 
 <p align="center">
-<em>Rede de varejo com grande capiladirade nos EUA.</em>
+<em>Rede de varejo com grande capilairade nos USA.</em>
 </p>
 
 <br>
@@ -152,7 +149,7 @@ Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empre
 
 **A execução** <br>
 
-As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa. 
+As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
 
 <p align="center">
 <img src="img/dre_anos15.png" width="600">
@@ -173,15 +170,13 @@ O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em *
 - Iniciar as negociações com as redes de varejo;
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
 
-<p align="center"><table style="width:100%">
-  <tr>
-    <th><img src="img/nano-draft.png"></th> 
-    <th><img src="img/duo-draft.png"></th> 
-  </tr>
-</table></p> 
+<p align="center">
+    <img src="img/nano-draft.png" height="100">
+    <img src="img/duo-draft.png" height="100">
+</p>
 
 <p align="center">
-<em>Linha minilift DIY nos USA.</em>
+<em>Linha Minilift DIY nos USA.</em>
 </p>
 
 <br>
