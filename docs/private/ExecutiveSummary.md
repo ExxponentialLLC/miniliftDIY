@@ -88,7 +88,7 @@ A empresa tem encontrado uma aceitação muito boa dos produtos no mercado ameri
 </p>
 
 <p align="center">
-<em><a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo</a> do funcionamento do MiniLift Nano.</em>
+<em>Videos do funcionamento do MiniLift <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a>.</em>
 </p>
 
 <br>
