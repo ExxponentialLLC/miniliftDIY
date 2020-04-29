@@ -170,9 +170,9 @@ O objetivo do atual roadshow é a captação alvo de US $ 750.000, dividida em *
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
 
 <p align="center">
-    <img src="img/nano-draft.png">
+    <img src="img/nano-draft.png" width="200">
     .
-    <img src="img/duo-draft.png">
+    <img src="img/duo-draft.png" width="200">
 </p>
 
 <p align="center">
