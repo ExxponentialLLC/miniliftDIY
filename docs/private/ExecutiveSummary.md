@@ -128,9 +128,8 @@ P&L simulations also considered the following premises: <br>
 
 **Assumptions for costs and prices in year 2**
 - Total direct cost of production (including freight) - $ 4,920
-- Product return * fee - 15%
+- Product return rate - 15%
 - Rate of reuse of the returned product - 95%
-- Suggested price for the single offer of the security - US $ 10,000
 - Sales taxes (VAT) - 0% <br><br>
 
 ### Company Startup
@@ -470,7 +469,6 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 - Custo direto total de produção (incluindo frete) - US $ 4.920 
 - Taxa de *devolução* do produto - 15%
 - Taxa de reaproveitamento do produto devolvido - 95%
-- Preço sugerido para a oferta avulsa do título - US $ 10.000
 - Impostos sobre a venda (IVA) – 0 % <br><br>
 
 ### Startup da empresa
