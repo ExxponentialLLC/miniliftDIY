@@ -276,7 +276,7 @@ El objetivo del **roadshow actual** es recaudar $ 250,000 como objetivo **capita
 <a name="portuguese"></a> 
 <br>
 
-## MINILIFT-DIY - SUMÁRIO EXECUTIVO
+## MINILIFT-DIY - SUMÁRIO 2 EXECUTIVO
 
 ### A oportunidade 
 A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores residenciais compactos de duas paradas, **revolucionários** por sua **simplicidade**, **eficácia**, **baixo consumo de energia** e **baixo impacto ambiental**.
