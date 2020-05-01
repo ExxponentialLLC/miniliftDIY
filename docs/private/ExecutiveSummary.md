@@ -241,14 +241,27 @@ Todos los pasos previstos en el plan de negocios serán financiados por **capita
 El objetivo del **roadshow actual** es recaudar $ 250,000 como objetivo **capital semilla** para:
 - Completa el **proyecto de adaptación** para el modelo DIY;
 - Iniciar negociaciones con cadenas minoristas;
-- Desarrollar el plan de negocios y promover el roadshow para recaudar fondos para la próxima etapa del plan. <br> <br>
+- Desarrollar el plan de negocios y promover el roadshow para recaudar fondos para la próxima etapa del plan. <br><br>
 
 <p align = "center">
     <img src="img/duo-draft.png" height="200">
     .
     <img src="img/nano-draft.png" height="200">
-    
+ </p> 
+ 
+<p align = "center">
+<em> Esquema conceptual de la línea Minilift DIY en EE. UU. </em>
+</p>
+
 <br>
+
+En la siguiente etapa (Serie A), el objetivo es recaudar US $ 500,000 adicionales, divididos en **dos cuotas** de US $ 250,000, con el propósito de:
+- Iniciar operaciones comerciales en la ciudad de Miami, FL;
+- Termine las pruebas de campo de los modelos Minilift DIY;
+- Concluir negociaciones con cadenas minoristas;
+- **Fabricación** e importación **inventario mínimo** a EE. UU. Capaz de satisfacer la demanda de manera segura;
+
+El rasing de **seed capital** y **Serie A** publicada en <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> considere la valuación previa *de Exxponential LLC* de $ 11.3 millones para la compañía.
 
 ... 
 
