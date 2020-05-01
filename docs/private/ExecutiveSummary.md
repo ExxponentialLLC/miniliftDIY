@@ -11,7 +11,7 @@
 <a name="english"></a>
 <br>
 
-### MINILIFT-DIY EXECUTIVE SUMMARY 
+### MINILIFT-DIY - EXECUTIVE SUMMARY 
 Summary of the 2020 fundraising roadshow. <br>
 
 ### The oportunity
@@ -146,10 +146,20 @@ The capture of **Seed capital** and **Series A** published at <a href="https://w
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+
+
+
+
+
+
+
+
+
+
 <a name="spanish"></a> 
 <br>
 
-### MINILIFT-DIY - 
+### MINILIFT-DIY - RESUMEN EJECUTIVO
 Resumen del roadshow de recaudación de fondos de 2020.
 
 ### La oportunidad
@@ -286,10 +296,20 @@ El rasing de **seed capital** y **Serie A** publicada en <a href="https://www.cr
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+
+
+
+
+
+
+
+
+
+
 <a name="portuguese"></a> 
 <br>
 
-## MINILIFT-DIY - SUMÁRIO 3 EXECUTIVO
+## MINILIFT-DIY - SUMÁRIO EXECUTIVO
 
 ### A oportunidade 
 A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores residenciais compactos de duas paradas, **revolucionários** por sua **simplicidade**, **eficácia**, **baixo consumo de energia** e **baixo impacto ambiental**.
@@ -301,7 +321,7 @@ A empresa tem encontrado uma aceitação muito boa dos equipamentos no mercado a
 </p>
 
 <p align="center">
-<em>Videos do funcionamento do MiniLift:  <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
+<em>Videos do funcionamento do Minilift:  <a href="https://www.youtube.com/watch?v=fyCBqfOozSE">Vídeo 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac">Vídeo 2</a> | <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s">Vídeo 3</a>.</em>
 </p>
 
 <br>
@@ -324,7 +344,7 @@ A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre
 Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e uma crescente **popularização do conceito** de acessibilidade da linha MiniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. 
 
 **Instalação** <br>
-A instalação do Minnilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.<br><br>
+A instalação do Minilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.<br><br>
 
 
 <p align="center">
@@ -344,11 +364,7 @@ Diante deste cenário, os empreendedores entendem que configurou-se uma excelent
 
 Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
 
-Os empreendedores elaboraram então um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.
-
-4.000 lojas 
-
-<br><br>
+Os empreendedores elaboraram então um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.<br><br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
@@ -358,7 +374,7 @@ Os empreendedores elaboraram então um plano de negócios para a criação da em
 </p>
 
 <p align="center">
-<em>Rede de varejo com grande capilairade nos USA.</em>
+<em>Rede de varejo com grande capilaridade nos USA.</em>
 </p>
 
 <br>
@@ -376,18 +392,55 @@ As simulações financeiras do plano de negócios mostram que, com um **investim
 <em>Profit & loss da operação da Minilift DIY entre os anos 1 e 5.</em>
 </p>
 
-<br> 
+**Premissas** <br>
+As premissas de participação de mercado consideram a estimativa conservadora de distribuição *apenas* nas quatro principais redes de varejo citadas anteriormente e de *apenas* um modelo de elevador (Minilift NANO). 
+
+Juntas, estas redes somam cerca de 4.000 lojas no território Americano, de forma que quantidade estimada de vendas em cinco anos (700) significa que apenas 3,5% do total da lojas irá consiguir vender um equipamento por ano.  
+
+As simulações utilizaram ainda as seguintes premissas de **atração** e **conversão**:<br>
+
+**Premissas de captação no ano 2**
+- Preço de tabela do Minilift Nano DIY - US $ 11.500;
+- % de desconto para o revendedor - 20%
+- Leads (tipo "SAL") gerados no ano - 800
+- Taxa de conversão (VENDAS/SAL) - 5,0% 
+- Produtos vendidos no ano – 40 equipamentos 
+
+*SAL -> Sales accepted leads* <br><br>
+
+**Premissas de crescimento das vendas** 
+- Crescimento das vendas (ano 2-1) - 80,0%
+- Crescimento das vendas (ano 3-2) - 400,0%
+- Crescimento das vendas (ano 4-3) - 20,0%
+- Crescimento das vendas (ano 5-4) - 5,0% <br><br>
+
+<p align="center">
+  <img src="img/dre_vendas.png">
+</p>
+<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
+</p><br><br>
+
+As simulações do DRE consideraram ainda as seguintes premissas:<br>
+
+**Premissas de custos e preços no ano 2**
+- Custo direto total de produção (incluindo frete) - US $ 4.920 
+- Taxa de *devolução* do produto - 15%
+- Taxa de reaproveitamento do produto devolvido - 95%
+- Preço sugerido para a oferta avulsa do título - US $ 10.000
+- Impostos sobre a venda (IVA) – 0 % <br><br>
+
+**Startup da empresa** <br>
+O startup da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
+- Iniciar a operação comercial na cidade de Miami, FL;
+- Concluir o **projeto** de adaptação para o modelo DIY do modelo Minivator NANO;
+- Concluir a produção dos protótipos e efetuar os testes de campo; 
+- Iniciar as negociações com as redes de varejo;
+- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br>
 
 ### Financiamento
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
 
-O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para:
-- Iniciar a operação comercial na cidade de Miami, FL;
-- Concluir o **projeto** de adaptação para o modelo DIY;
-- testes 
-- Iniciar as negociações com as redes de varejo;
-- Mostruário... 
-- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
+O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para efetuar o **startup** do empreendimento no primeiro ano de operação. 
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -402,12 +455,11 @@ O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título 
 <br>
 
 Na etapa seguinte (Series A), o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
-
 - Terminar os testes de campo dos modelos Minilift DIY;
-- Concluir as negociações com as redes de varejo;
+- Renegociar os termos contratuais com as redes de varejo;
 - **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
 
-A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *valuation* prévia da Exxponential LLC de US $ 11,3 milhões para a empresa.
+A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *valuation* prévia do projeto em US $ 11,3 milhões.
 
 ... 
 
@@ -430,6 +482,16 @@ A captação do **Seed capital** e da **Series A** publicada em <a href="https:/
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
 
 <a name="chinese"></a> 
 <br>
