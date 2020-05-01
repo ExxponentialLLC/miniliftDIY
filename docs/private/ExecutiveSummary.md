@@ -392,23 +392,25 @@ As simulações financeiras do plano de negócios mostram que, com um **investim
 <em>Profit & loss da operação da Minilift DIY entre os anos 1 e 5.</em>
 </p>
 
-**Premissas** <br>
-As premissas de participação de mercado consideram a estimativa conservadora de distribuição *apenas* nas quatro principais redes de varejo citadas anteriormente e de *apenas* um modelo de elevador (Minilift NANO). 
+<br>
 
-Juntas, estas redes somam cerca de 4.000 lojas no território Americano, de forma que quantidade estimada de vendas em cinco anos (700) significa que apenas 3,5% do total da lojas irá consiguir vender um equipamento por ano.  
+**Premissas** <br>
+As premissas de **participação de mercado** consideram a estimativa conservadora de distribuição *apenas* nas quatro principais redes de varejo citadas anteriormente e de *apenas* um modelo de elevador (Minilift NANO). 
+
+Juntas, estas quatro redes de varejo somam cerca de 4.000 lojas no território Americano, de forma que quantidade estimada de vendas em cinco anos significa que apenas 3,5% do total da lojas irá consiguir vender um equipamento por ano.  
 
 As simulações utilizaram ainda as seguintes premissas de **atração** e **conversão**:<br>
 
-**Premissas de captação no ano 2**
+    **Premissas de captação no ano 2**
 - Preço de tabela do Minilift Nano DIY - US $ 11.500;
 - % de desconto para o revendedor - 20%
 - Leads (tipo "SAL") gerados no ano - 800
 - Taxa de conversão (VENDAS/SAL) - 5,0% 
 - Produtos vendidos no ano – 40 equipamentos 
 
-*SAL -> Sales accepted leads* <br><br>
+*SAL -> Sales accepted leads* <br>
 
-**Premissas de crescimento das vendas** 
+    **Premissas de crescimento das vendas** 
 - Crescimento das vendas (ano 2-1) - 80,0%
 - Crescimento das vendas (ano 3-2) - 400,0%
 - Crescimento das vendas (ano 4-3) - 20,0%
@@ -418,7 +420,7 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
   <img src="img/dre_vendas.png">
 </p>
 <p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
-</p><br><br>
+</p><br>
 
 As simulações do DRE consideraram ainda as seguintes premissas:<br>
 
@@ -429,13 +431,13 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 - Preço sugerido para a oferta avulsa do título - US $ 10.000
 - Impostos sobre a venda (IVA) – 0 % <br><br>
 
-**Startup da empresa** <br>
+### Startup da empresa
 O startup da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
 - Iniciar a operação comercial na cidade de Miami, FL;
-- Concluir o **projeto** de adaptação para o modelo DIY do modelo Minivator NANO;
+- Concluir o **projeto de adaptação** para o modelo DIY do modelo Minivator NANO;
 - Concluir a produção dos protótipos e efetuar os testes de campo; 
 - Iniciar as negociações com as redes de varejo;
-- Elaborar o plano de negócios e promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br>
+- Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br>
 
 ### Financiamento
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
