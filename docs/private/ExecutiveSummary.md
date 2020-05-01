@@ -401,7 +401,7 @@ Juntas, estas quatro redes de varejo somam cerca de 4.000 lojas no território A
 
 As simulações utilizaram ainda as seguintes premissas de **atração** e **conversão**:<br>
 
-    **Premissas de captação no ano 2**
+**Premissas de captação no ano 2**
 - Preço de tabela do Minilift Nano DIY - US $ 11.500;
 - % de desconto para o revendedor - 20%
 - Leads (tipo "SAL") gerados no ano - 800
@@ -410,7 +410,7 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
 
 *SAL -> Sales accepted leads* <br>
 
-    **Premissas de crescimento das vendas** 
+**Premissas de crescimento das vendas** 
 - Crescimento das vendas (ano 2-1) - 80,0%
 - Crescimento das vendas (ano 3-2) - 400,0%
 - Crescimento das vendas (ano 4-3) - 20,0%
@@ -437,12 +437,7 @@ O startup da empresa, previsto para o **primeiro ano** de operação, tem como o
 - Concluir o **projeto de adaptação** para o modelo DIY do modelo Minivator NANO;
 - Concluir a produção dos protótipos e efetuar os testes de campo; 
 - Iniciar as negociações com as redes de varejo;
-- Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br>
-
-### Financiamento
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
-
-O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para efetuar o **startup** do empreendimento no primeiro ano de operação. 
+- Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br>
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -456,6 +451,12 @@ O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título 
 
 <br>
 
+### Financiamento
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
+
+O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para efetuar o **startup** do empreendimento no primeiro ano de operação.<br><br>
+
+**Expansão** <br> 
 Na etapa seguinte (Series A), o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
 - Terminar os testes de campo dos modelos Minilift DIY;
 - Renegociar os termos contratuais com as redes de varejo;
