@@ -417,7 +417,7 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
 - Crescimento das vendas (ano 5-4) - 5,0% <br><br>
 
 <p align="center">
-  <img src="img/dre_vendas.png">
+  <img src="img/revenue_forecast_15.png">
 </p>
 <p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
 </p><br>
