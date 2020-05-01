@@ -417,7 +417,7 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
 - Crescimento das vendas (ano 5-4) - 5,0% <br><br>
 
 <p align="center">
-  <img src="img/revenue_forecast_15.png">
+  <img src="img/revenue_forecast_15.png" width="600">
 </p>
 <p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
 </p><br>
@@ -437,7 +437,7 @@ O startup da empresa, previsto para o **primeiro ano** de operação, tem como o
 - Concluir o **projeto de adaptação** para o modelo DIY do modelo Minivator NANO;
 - Concluir a produção dos protótipos e efetuar os testes de campo; 
 - Iniciar as negociações com as redes de varejo;
-- Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br>
+- Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
