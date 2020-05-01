@@ -143,7 +143,8 @@ The capture of **Seed capital** and **Series A** published at <a href="https://w
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a name="spanish"></a> 
 <br>
@@ -269,12 +270,13 @@ El objetivo del **roadshow actual** es recaudar $ 250,000 como objetivo **capita
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a name="portuguese"></a> 
 <br>
 
-## MINILIFT-DIY - SUMÁRIO EXECUTIVO 
+## MINILIFT-DIY - SUMÁRIO EXECUTIVO
 
 ### A oportunidade 
 A empresa Exxponential LLC importa e instala nos USA a **MiniLift**, uma linha de elevadores residenciais compactos de duas paradas, **revolucionários** por sua **simplicidade**, **eficácia**, **baixo consumo de energia** e **baixo impacto ambiental**.
@@ -413,7 +415,8 @@ A captação do **Seed capital** e da **Series A** publicada em <a href="https:/
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a name="chinese"></a> 
 <br>
