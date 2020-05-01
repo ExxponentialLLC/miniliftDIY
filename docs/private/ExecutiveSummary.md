@@ -105,7 +105,7 @@ The simulations also used the following premises of **attraction** and **convers
 
 **Lead capture assumptions in year 2**
 - List price of the Minilift Nano DIY - US $ 11,500;
--% discount for the dealer - 20%
+- Dealer discount - 20%
 - Leads (type "SAL") generated in the year 2 - 800
 - Conversion rate (SALES / SAL) - 5.0%
 - Products sold in the year 2 - 40 
@@ -116,7 +116,7 @@ The simulations also used the following premises of **attraction** and **convers
 - Sales growth (year 2-1) - 80.0%
 - Sales growth (year 3-2) - 400.0%
 - Sales growth (year 4-3) - 20.0%
-- Sales growth (year 5-4) - 5.0% <br> <br>
+- Sales growth (year 5-4) - 5.0% <br><br>
 
 <p align = "center">
   <img src = "img/revenue_forecast_15.png" width = "600">
@@ -153,10 +153,10 @@ The company's startup, scheduled for the **first year** of operation, aims to:
 
 <br>
 
-### Financing
+### Funding 
 All steps provided for in the business plan will be financed by **venture capital** and the main rule of thumb to attract investors is the **repurchase** of the shares by the original partners.
 
-The objective of the **current roadshow** is to raise a target of US $ 250,000 as **seed capital** to effect the **startup** of the project in the first year of operation. <br> <br>
+The objective of the **current roadshow** is to raise a target of US $ 250,000 as **seed capital** to effect the **startup** of the project in the first year of operation. <br>
 
 **Expansion** <br>
 In the next stage (Series A), the objective is to raise an additional US $ 500,000, divided into **two quotas** of US $ 250,000, with the purpose of:
@@ -164,7 +164,7 @@ In the next stage (Series A), the objective is to raise an additional US $ 500,0
 - Renegotiate contractual terms with retail chains;
 - **Manufacture** and import **minimum inventory** to the USA capable of meeting demand safely;
 
-The capture of **Seed capital** and **Series A** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </a> consider Exxponential LLC's *prior valuation* of $ 11.3 million for the company.
+The funding of **Seed capital** and **Series A** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </a> consider Exxponential LLC's *prior valuation* of $ 11.3 million for the company.
 
 ...
 
