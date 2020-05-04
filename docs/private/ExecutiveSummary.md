@@ -73,6 +73,7 @@ The entrepreneurs then developed a business plan for the creation of the company
     <img src="img/Ace_Hardware_Logo_low_2.png" height="60">
     <img src="img/Costco.png" height="60">     
     <img src="img/bjs_logo_new_2.jpg" height="60">
+    <img src="img/logo_lowes.jpg" height="60">
 </p>
 
 <p align="center">
@@ -261,8 +262,9 @@ Luego, los empresarios desarrollaron un plan de negocios para la creación de la
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
     <img src="img/Ace_Hardware_Logo_low_2.png" height="60">
-    <img src="img/Costco.png" height="60">
+    <img src="img/Costco.png" height="60">     
     <img src="img/bjs_logo_new_2.jpg" height="60">
+    <img src="img/logo_lowes.jpg" height="60">
 </p>
 
 <p align="center">
