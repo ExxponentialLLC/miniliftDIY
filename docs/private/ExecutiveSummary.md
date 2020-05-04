@@ -412,6 +412,7 @@ Os empreendedores elaboraram então um plano de negócios para a criação da em
     <img src="img/Ace_Hardware_Logo_low_2.png" height="60">
     <img src="img/Costco.png" height="60">     
     <img src="img/bjs_logo_new_2.jpg" height="60">
+    <img src="img/logo_lowes.jpg" height="60">
 </p>
 
 <p align="center">
