@@ -111,7 +111,7 @@ The simulations also used the following premises of **attraction** and **convers
 - Conversion rate (SALES / SAL) - 5.0%
 - Products sold in the year 2 - 40 
 
-*SAL -> Sales accepted leads* <br>
+Obs.: *SAL = Sales accepted leads* <br><br>
 
 **Sales growth assumptions**
 - Sales growth (year 2-1) - 80.0%
@@ -442,9 +442,7 @@ As premissas de **participação de mercado** consideram a estimativa conservado
 
 Juntas, estas quatro redes de varejo somam cerca de 4.000 lojas no território Americano, de forma que quantidade estimada de vendas em cinco anos significa que apenas 3,5% do total da lojas irá consiguir vender um equipamento por ano.  
 
-As simulações utilizaram ainda as seguintes premissas de **atração** e **conversão**:<br>
-
-**Premissas de captação no ano 2**
+As simulações utilizaram ainda as seguintes premissas de **atração** e **conversão** no ano 2:
 - Preço de tabela do Minilift Nano DIY - US $ 11.500;
 - % de desconto para o revendedor - 20% 
 - Lojas de varejo (total) - 4.000
@@ -453,8 +451,7 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
 - Taxa de conversão (VENDAS/SAL) - 5,0% 
 - Produtos vendidos no ano 2 – 40 equipamentos 
 
-*SAL -> Sales accepted leads* <br>
-
+Obs.: *SAL = Sales Accepted leads* <br><br>
 
 <p align="center">
   <img src="img/revenue_forecast_15.png" width="600">
