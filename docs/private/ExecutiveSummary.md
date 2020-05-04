@@ -389,7 +389,6 @@ Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e 
 **Instalação** <br>
 A instalação do Minilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.<br><br>
 
-
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
 </p>
@@ -476,11 +475,8 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 
 ### Startup da empresa
 O startup da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
-- Iniciar a operação comercial na cidade de Miami, FL;
-- Concluir o **projeto de adaptação** para o modelo DIY do modelo Minivator NANO;
-- Concluir a produção dos protótipos e efetuar os testes de campo; 
-- Iniciar as negociações com as redes de varejo;
-- Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
+1. Iniciar a operação comercial na cidade de Miami, FL;
+2. Concluir o **projeto de adaptação** para o modelo DIY do modelo Minivator NANO; <br><br> 
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -491,6 +487,15 @@ O startup da empresa, previsto para o **primeiro ano** de operação, tem como o
 <p align="center">
 <em>Esquema conceitual da linha Minilift DIY nos USA.</em>
 </p>
+
+<br>
+
+3. Iniciar as negociações e fechar contrato com **pelo menos uma** rede de varejo; 
+4. Produzir **um protótipo** para testes de campo;
+5. Produzir **três protótipos** para showroom;
+6. Produzir **dez unidades** para estoque inicial; 
+7. Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
+
 
 <br>
 
