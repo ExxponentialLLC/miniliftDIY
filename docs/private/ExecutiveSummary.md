@@ -476,7 +476,7 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 ### Startup da empresa
 O startup da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
 1. Iniciar a operação comercial na cidade de Miami, FL;
-2. Concluir o **projeto de adaptação** para o modelo DIY do modelo Minivator NANO; <br><br> 
+2. Concluir o **projeto de adaptação DIY** do modelo Minivator NANO; <br><br> 
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -494,23 +494,22 @@ O startup da empresa, previsto para o **primeiro ano** de operação, tem como o
 4. Produzir **um protótipo** para testes de campo;
 5. Produzir **três protótipos** para showroom;
 6. Produzir **dez unidades** para estoque inicial; 
-7. Promover o roadshow para a captação de recursos para a etapa seguinte do plano.<br><br> 
-
-
-<br>
+7. Promover o roadshow para a captação de recursos para a etapa seguinte do plano de negócios.<br><br> 
 
 ### Financiamento
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais. 
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais.<br><br>
 
+**seed capital** <br> 
 O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para efetuar o **startup** do empreendimento no primeiro ano de operação.<br><br>
 
-**Expansão** <br> 
-Na etapa seguinte (Series A), o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
-- Terminar os testes de campo dos modelos Minilift DIY;
-- Renegociar os termos contratuais com as redes de varejo;
-- **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;
+**Series A** <br> 
+Na etapa seguinte, Series A, o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
+1. Concluir o **projeto de adaptação DIY** do modelo Minivator HC (cadeira de rodas); 
+2. Fechar contrato com mais **quatro** redes de varejo nos USA; 
+3. **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;<br><br>
 
-A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *valuation* prévia do projeto em US $ 11,3 milhões.
+**Valuation** <br> 
+A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *pre money valuation* em US $ 11,3 milhões.
 
 ... 
 
