@@ -446,18 +446,15 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
 
 **Premissas de captação no ano 2**
 - Preço de tabela do Minilift Nano DIY - US $ 11.500;
-- % de desconto para o revendedor - 20%
-- Leads (tipo "SAL") gerados no ano - 800
+- % de desconto para o revendedor - 20% 
+- Lojas de varejo (total) - 4.000
+- Taxa de atração de pelo menos um LEAD por ano - 20% das lojas   
+- Leads (tipo "SAL") gerados no ano 2 - 800
 - Taxa de conversão (VENDAS/SAL) - 5,0% 
-- Produtos vendidos no ano – 40 equipamentos 
+- Produtos vendidos no ano 2 – 40 equipamentos 
 
 *SAL -> Sales accepted leads* <br>
 
-**Premissas de crescimento das vendas** 
-- Crescimento das vendas (ano 2-1) - 80,0%
-- Crescimento das vendas (ano 3-2) - 400,0%
-- Crescimento das vendas (ano 4-3) - 20,0%
-- Crescimento das vendas (ano 5-4) - 5,0% <br><br>
 
 <p align="center">
   <img src="img/revenue_forecast_15.png" width="600">
@@ -474,7 +471,7 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 - Impostos sobre a venda (IVA) – 0 % <br><br>
 
 ### Startup da empresa
-O startup da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
+O *startup* da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
 1. Iniciar a operação comercial na cidade de Miami, FL;
 2. Concluir o **projeto de adaptação DIY** do modelo Minivator NANO; <br><br> 
 
@@ -499,7 +496,7 @@ O startup da empresa, previsto para o **primeiro ano** de operação, tem como o
 ### Financiamento
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais.<br><br>
 
-**seed capital** <br> 
+**Seed capital** <br> 
 O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para efetuar o **startup** do empreendimento no primeiro ano de operação.<br><br>
 
 **Series A** <br> 
