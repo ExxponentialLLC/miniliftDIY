@@ -469,8 +469,8 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 
 ### Startup da empresa
 O *startup* da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
-1. Iniciar a operação comercial na cidade de Miami, FL;
-2. Concluir o **projeto de adaptação DIY** do modelo Minivator NANO; <br><br> 
+- Iniciar a operação comercial na cidade de Miami, FL;
+- Concluir o **projeto de adaptação DIY** do modelo Minivator NANO; <br><br> 
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -484,11 +484,12 @@ O *startup* da empresa, previsto para o **primeiro ano** de operação, tem como
 
 <br>
 
-3. Iniciar as negociações e fechar contrato com **pelo menos uma** rede de varejo; 
-4. Produzir **um protótipo** para testes de campo;
-5. Produzir **três protótipos** para showroom;
-6. Produzir **dez unidades** para estoque inicial; 
-7. Promover o roadshow para a captação de recursos para a etapa seguinte do plano de negócios.<br><br> 
+
+- Produzir **um protótipo** para testes de campo;
+- Produzir **três protótipos** para showroom;
+- Produzir **dez unidades** para estoque inicial; 
+- Iniciar as negociações e fechar contrato com **pelo menos uma** rede de varejo; 
+- Promover o roadshow para a captação de recursos para a etapa seguinte do plano de negócios.<br><br> 
 
 ### Financiamento
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **recompra** das participações pelos sócios originais.<br><br>
