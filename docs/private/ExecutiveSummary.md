@@ -387,8 +387,7 @@ A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre
 Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e uma crescente **popularização do conceito** de acessibilidade da linha MiniLift nos próximos anos. 
 
 **Normas** <br>
-A xxxx
-
+Os elevadores da linha Minilift se enquandram nas normas americanas de acessibilidade vertical. <br><br>
 
 
 **Instalação** <br>
@@ -404,7 +403,7 @@ A instalação do Minilift é uma operação bastante rápida e simples, mas que
 
 <br> 
 
-**Do It Yourself** <br>
+**Do It Yourself - DIY** <br>
 Após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a **instalar** o equipamento.
 
 Se por um lado o preço do elevador é impactado pelos custos de instalação do equipamento. Por outro lado, o mercado americano é bastante receptivo ao **“ *do it yourself (DIY)* ”**, conceito no qual o próprio cliente monta e instala um determinado equipamento em troca de benefícios diversos, entre eles a **redução do preço** e a **satisfação pessoal** por realizar a atividade manual.
@@ -446,7 +445,7 @@ A estratégia de distribução utiliza as principais **redes de varejo** dos USA
 Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empresa pretende continuar comercializando a linha de elevadores da forma tradicional, ou seja, continuará executando instalações e assistência técnica do equipamento em todo território dos USA.
 
 **Mercado** <br>
-A xxxx<br><br>
+A xxxx <br><br>
 
 ### A execução do plano 
 As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
