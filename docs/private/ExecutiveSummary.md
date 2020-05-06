@@ -384,7 +384,12 @@ A boa receptividade do MiniLift nos USA é explicada por diversos fatores, entre
 
 <br> 
 
-Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e uma crescente **popularização do conceito** de acessibilidade da linha MiniLift nos próximos anos. Entretanto, após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a instalar o equipamento. 
+Todos esses fatores apontam para um crescimento promissor da Exxponential LLC e uma crescente **popularização do conceito** de acessibilidade da linha MiniLift nos próximos anos. 
+
+**Normas** <br>
+A xxxx
+
+
 
 **Instalação** <br>
 A instalação do Minilift é uma operação bastante rápida e simples, mas que, frequentemente, envolve alguma **complexidade logística** quando exige **deslocamentos** e **hospedagens** de técnicos, sobretudo para as regiões do interior dos estados.<br><br>
@@ -399,14 +404,30 @@ A instalação do Minilift é uma operação bastante rápida e simples, mas que
 
 <br> 
 
-### O negócio
+**Do It Yourself** <br>
+Após o primeiro ano de operação nos USA, os empreendedores à frente do negócio constataram que uma parte significativa do preço final do equipamento é resultado do custo agregado para a **instalar** o equipamento.
+
 Se por um lado o preço do elevador é impactado pelos custos de instalação do equipamento. Por outro lado, o mercado americano é bastante receptivo ao **“ *do it yourself (DIY)* ”**, conceito no qual o próprio cliente monta e instala um determinado equipamento em troca de benefícios diversos, entre eles a **redução do preço** e a **satisfação pessoal** por realizar a atividade manual.
 
-Diante deste cenário, os empreendedores entendem que configurou-se uma excelente oportunidade de negócios a ser explorada. 
+Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.<br><br>
 
-Ao longo dos últimos meses, eles pesquisaram e encontraram formas viáveis de **adaptar o projeto atual** da linha MiniLift para a modalidade DIY e, assim, reduzir consideravelmente o preço do equipamento ao consumidor final.  
+<p align="center">
+    <img src="img/duo-draft.png" height="200">
+    .
+    <img src="img/nano-draft.png" height="200">
+</p>
 
-Os empreendedores elaboraram então um plano de negócios para a criação da empresa **MiniLift-DIY**, especializada em distribuir a linha MiniLift no conceito DIY através das principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco and BJs*.<br><br>
+<p align="center">
+<em>Esquema conceitual da linha Minilift DIY nos USA.</em>
+</p>
+
+<br>
+
+### O negócio
+Diante deste cenário, os empreendedores entendem que configurou-se uma excelente oportunidade de negócios a ser explorada. Elaboraram então um **plano de negócios** para a criação da empresa **MiniLift-DIY**, especializada em comercializar a linha MiniLift no conceito DIY nos USA.<br>
+
+**Distribuição** <br>
+A estratégia de distribução utiliza as principais **redes de varejo** dos USA, tais como *Home Depot, Ace Hardware, Costco, Lowe's and BJs*.<br><br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
@@ -424,7 +445,10 @@ Os empreendedores elaboraram então um plano de negócios para a criação da em
 
 Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empresa pretende continuar comercializando a linha de elevadores da forma tradicional, ou seja, continuará executando instalações e assistência técnica do equipamento em todo território dos USA.
 
-### A execução
+**Mercado** <br>
+A xxxx<br><br>
+
+### A execução do plano 
 As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
 
 <p align="center">
@@ -470,21 +494,7 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 ### Startup da empresa
 O *startup* da empresa, previsto para o **primeiro ano** de operação, tem como objetivos:
 - Iniciar a operação comercial na cidade de Miami, FL;
-- Concluir o **projeto de adaptação DIY** do modelo Minivator NANO; <br><br> 
-
-<p align="center">
-    <img src="img/duo-draft.png" height="200">
-    .
-    <img src="img/nano-draft.png" height="200">
-</p>
-
-<p align="center">
-<em>Esquema conceitual da linha Minilift DIY nos USA.</em>
-</p>
-
-<br>
-
-
+- Concluir o **projeto de adaptação DIY** do modelo Minivator NANO; 
 - Produzir **um protótipo** para testes de campo;
 - Produzir **três protótipos** para showroom;
 - Produzir **dez unidades** para estoque inicial; 
