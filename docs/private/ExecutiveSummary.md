@@ -444,7 +444,7 @@ A estratégia de distribução utiliza as principais **redes de varejo** dos USA
 Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empresa pretende continuar comercializando a linha de elevadores da forma tradicional, ou seja, continuará executando instalações e assistência técnica do equipamento em todo território dos USA.<br><br>
 
 ### A execução do plano 
-As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 700 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
+As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 800 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
 
 <p align="center">
 <img src="img/dre_anos15.png" width="600">
@@ -462,13 +462,13 @@ As premissas de **participação de mercado** consideram a estimativa conservado
 Juntas, estas quatro redes de varejo somam cerca de 4.000 lojas no território Americano, de forma que quantidade estimada de vendas em cinco anos significa que apenas 3,5% do total da lojas irá consiguir vender um equipamento por ano.  
 
 As simulações utilizaram ainda as seguintes premissas de **atração** e **conversão** no ano 2:
-- Preço de tabela do Minilift Nano DIY - US $ 11.500;
+- Preço de tabela do Minilift Nano DIY - US $ 11.266;
 - % de desconto para o revendedor - 20% 
 - Lojas de varejo (total) - 4.000
 - Taxa de atração de pelo menos um LEAD por ano - 20% das lojas   
 - Leads (tipo "SAL") gerados no ano 2 - 800
 - Taxa de conversão (VENDAS/SAL) - 5,0% 
-- Produtos vendidos no ano 2 – 40 equipamentos 
+- Produtos vendidos no ano 2 – 90 equipamentos 
 
 Obs.: *SAL = Sales Accepted leads* <br><br>
 
