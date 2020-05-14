@@ -320,7 +320,7 @@ El rasing de **seed capital** y **Serie A** publicada en <a href="https://www.cr
 
 <br>
 
-*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY NDA</a>.*
+*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="https://exxponentialllc.github.io/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf" target="_blank">MiniliftDIY NDA</a>.*
 
 <br>
 <p align="center">    
@@ -513,7 +513,7 @@ A captação do **Seed capital** e da **Series A** publicada em <a href="https:/
 
 ... 
 
-*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">MiniliftDIY 2020.1 NDA</a>.*
+*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="https://exxponentialllc.github.io/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf" target="_blank">MiniliftDIY 2020.1 NDA</a>.*
 
 
 <br>
@@ -553,7 +553,7 @@ A captação do **Seed capital** e da **Series A** publicada em <a href="https:/
 （很快也有中文版本）
 ...
 
-*1。 对<a href="http://bit.ly/NDA-OpenPBL"> MiniliftDIY NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
+*1。 对<a href="https://exxponentialllc.github.io/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf" target="_blank"> MiniliftDIY NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
 
 *2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese">讲故事</a>（仅提供葡萄牙语版本）*
 
