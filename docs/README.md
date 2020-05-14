@@ -9,6 +9,8 @@ https://exxponentialllc.github.io/miniliftDIY/private/BusinessPitch#english
 Sumário Executivo versão Inglês. <br>
 https://exxponentialllc.github.io/miniliftDIY/private/ExecutiveSummary#english
 
+Sumário Executivo versão Inglês. <br>
+https://exxponentialllc.github.io/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf
 
 ... <br>
 14abr20 <br>
