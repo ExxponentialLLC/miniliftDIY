@@ -168,7 +168,7 @@ The funding of **Seed capital** and **Series A** published at <a href="https://w
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="https://github.com/ExxponentialLLC/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf" target="_blank">MiniliftDIY NDA</a>.*
+*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="https://exxponentialllc.github.io/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf" target="_blank">MiniliftDIY NDA</a>.*
 
 
 <br>
