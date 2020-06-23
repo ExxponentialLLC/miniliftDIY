@@ -468,7 +468,7 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
 - Taxa de atração de pelo menos um LEAD por ano - 20% das lojas   
 - Leads (tipo "SAL") gerados no ano 2 - 800
 - Taxa de conversão (VENDAS/SAL) - 5,0% 
-- Produtos vendidos no ano 2 – 90 equipamentos 
+- Produtos vendidos no ano 2 – 132 equipamentos 
 
 Obs.: *SAL = Sales Accepted leads* <br><br>
 
