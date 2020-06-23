@@ -444,7 +444,7 @@ A estratégia de distribução utiliza as principais **redes de varejo** dos USA
 Apesar do foco na distribuição do modelo DIY nas redes de varejo, a nova empresa pretende continuar comercializando a linha de elevadores da forma tradicional, ou seja, continuará executando instalações e assistência técnica do equipamento em todo território dos USA.<br><br>
 
 ### A execução do plano 
-As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 750.000, é possível atingir uma base instalada de 800 elevadores e **receitas líquidas** de US $ 3,3 milhões (EBITDA 32% RL) no **quinto ano** de operação da empresa.<br><br> 
+As simulações financeiras do plano de negócios mostram que, com um **investimento inicial** de US $ 550.000, é possível atingir uma base instalada de 1.200 elevadores e **receitas líquidas** de US $ 4,7 milhões (EBITDA 41% RL) no **quinto ano** de operação da empresa.<br><br> 
 
 <p align="center">
 <img src="img/dre_anos15.png" width="600">
@@ -466,9 +466,9 @@ As simulações utilizaram ainda as seguintes premissas de **atração** e **con
 - % de desconto para o revendedor - 20% 
 - Lojas de varejo (total) - 4.000
 - Taxa de atração de pelo menos um LEAD por ano - 20% das lojas   
-- Leads (tipo "SAL") gerados no ano 2 - 800
-- Taxa de conversão (VENDAS/SAL) - 5,0% 
-- Produtos vendidos no ano 2 – 132 equipamentos 
+- Leads (tipo "SAL") gerados no ano 2 - 3,750
+- Taxa de conversão (VENDAS/SAL) - 3,0% 
+- Produtos vendidos no ano 2 – 132 equipamentos (Varejo + online)
 
 Obs.: *SAL = Sales Accepted leads* <br><br>
 
