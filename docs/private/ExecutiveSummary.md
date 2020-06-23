@@ -503,13 +503,13 @@ Todas as etapas previstas no plano de negócios serão financiadas por **capital
 O objetivo do **atual roadshow** é a captação alvo de US $ 250.000 a título de **seed capital** para efetuar o **startup** do empreendimento no primeiro ano de operação.<br><br>
 
 **Series A** <br> 
-Na etapa seguinte, Series A, o objetivo é captar mais US $ 500.000, divididos em **duas quotas** de US $ 250.000, com a finalidade de:
+Na etapa seguinte, Series A, o objetivo é captar mais US $ 300.000, divididos em **duas quotas** de US $ 150.000, com a finalidade de:
 1. Concluir o **projeto de adaptação DIY** do modelo Minivator HC (cadeira de rodas); 
 2. Fechar contrato com mais **quatro** redes de varejo nos USA; 
 3. **Fabricar** e importar para os USA um **estoque mínimo** capaz de atender a demanda com segurança;<br><br>
 
 **Valuation** <br> 
-A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram a *pre money valuation* em US $ 11,3 milhões.
+A captação do **Seed capital** e da **Series A** publicada em <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview">Crunch Base</a> consideram o *valuation* em US $ 17,7 milhões. 
 
 ... 
 
