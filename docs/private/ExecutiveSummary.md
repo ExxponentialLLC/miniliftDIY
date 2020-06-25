@@ -499,7 +499,7 @@ O *startup* da empresa, previsto para o **primeiro ano** de operação, tem como
 <p align="center">
   <img src="img/new-cover.png" width="500">
 </p>
-<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
+<p align="center"><em>Projeto da nova cabina.</em>
 </p><br><br> 
 
 ### Financiamento
