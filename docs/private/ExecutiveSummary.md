@@ -494,7 +494,7 @@ O *startup* da empresa, previsto para o **primeiro ano** de operação, tem como
 - Produzir **três protótipos** para showroom;
 - Produzir **dez unidades** para estoque inicial; 
 - Iniciar as negociações e fechar contrato com **pelo menos uma** rede de varejo; 
-- Promover o roadshow para a captação de recursos para a etapa seguinte do plano de negócios.<br>
+- Promover o roadshow para a captação de recursos para a etapa seguinte do plano de negócios.<br><br>
 
 <p align="center">
   <img src="img/new-cover.png" width="500">
