@@ -7,7 +7,7 @@
 <a name="english"></a>
 <br>
 
-### MINILIFT-DIY - EXECUTIVE SUMMARY 
+## MINILIFT-DIY - EXECUTIVE SUMMARY 
 
 ### The oportunity
 The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** for its **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**.
