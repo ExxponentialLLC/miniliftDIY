@@ -80,7 +80,7 @@ Over the past few months, they have researched and found viable ways to **adapt 
 Faced with this scenario, entrepreneurs understand that an excellent business opportunity has been configured to be explored. The entrepreneurs then developed a business plan for the creation of the company **MiniLift-DIY**, specialized in distributing the MiniLift line in the DIY concept through the USA.<br>
 
 **Distribution** <br>
-The distribution strategy uses the main **retail chains** in the USA, such as *Home Depot, Ace Hardware, Costco Lowe's and BJs*. <br> <br>
+The distribution strategy uses the main **retail chains** in the USA, such as *Home Depot, Ace Hardware, Costco, Lowe's and BJs*. <br> <br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
