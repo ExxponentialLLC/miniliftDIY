@@ -10,7 +10,7 @@
 ## MINILIFT-DIY - EXECUTIVE SUMMARY 
 
 ### The oportunity
-The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** for its **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**.
+The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**.
 
 The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. <br> <br>
 
@@ -45,7 +45,7 @@ All of these factors point to a promising growth of Exxponential LLC and an incr
 Minilift lifts meet American standards for vertical accessibility. <br>
 
 **Installation** <br>
-The installation of Minnilift is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. <br> <br>
+The installation of Minilift is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. <br> <br>
 
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
@@ -176,7 +176,7 @@ The funding of **Seed capital** and **Series A** published at <a href="https://w
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="https://exxponentialllc.github.io/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf" target="_blank">MiniliftDIY NDA</a>.*
+*1. The "Non Disclosure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="https://exxponentialllc.github.io/miniliftDIY/NDA-MiniliftDIY-Exxponential.pdf" target="_blank">MiniliftDIY NDA</a>.*
 
 
 <br>
