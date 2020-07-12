@@ -52,25 +52,25 @@ The 2010 Standards set minimum requirements - both scoping and technical - for n
 </p>
 
 <p align="center">
-<em>Conceptual layout of the Minilift line in the USA.</em>
+<em>2010 ADA conceptual layout of the Minilift line in the USA.</em>
 </p>
 
 <br>
 
-Access the full standard at <a href="https://exxponentialllc.github.io/miniliftDIY/2010ADAStandards.pdf" target="_blank">210 ADA Standards for Accessible Design</a>.
+For more details, access the full standard technical sheets at <a href="https://exxponentialllc.github.io/miniliftDIY/2010ADAStandards.pdf" target="_blank">2010 ADA Standards for Accessible Design</a>.
 
 <br>
 
-**Installation** <br>
-Installing Minilift is a very quick and simple operation. The civil work to prepare for the installation of the equipment is also very simple.
+**Minilift installation** <br>
+Installing Minilift is a very **quick** and **simple** operation. The **civil work** to prepare for the installation of the equipment is also very simple.
 
 The execution of the civli work is the client's responsibility and basically consists of:
 - Drill a square hole between the two floors served by Minilift;
 - Install a 220V power supply (the same type as the electric power sources for air conditioning equipment).
 
-During the execution of civil works, clients receive technical advice with all the necessary guidelines for contracting the services of the contractors.
+During the execution of civil works, **clients receive technical advice** with all the necessary guidelines for contracting the services of the **contractors**.
 
-Eventually, the installation requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. Some states also require prior license applications from city governments.<br> <br>
+Eventually, the installation requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. Some states also require **prior license applications** from city governments.<br> <br>
 
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
@@ -82,7 +82,7 @@ Eventually, the installation requires **travel** and **accommodation** of techni
 
 <br><br>
 
-### Minilift dealers 
+### MINILIFT DEALERS 
 
 **MiniLift Authorized Resellers**
 MiniLift Authorized Resellers are responsible for acquiring customers and installing equipment in their **acting regions**. The authorized resellers are remunerated for their performance both in the **sale process** and the **installation process**. 
@@ -146,7 +146,7 @@ The commissioning of the dealers and concultants is paid in the same proportion 
 
 <br><br>
 
-### What's next
+### WHAT'S NEXT
 
 **New Minilift design** <br>
 In response to our customers' requests, we are developing a new design for the cabins of the Minilift product line. The new cabs will soon be available for sale.<br><br>
