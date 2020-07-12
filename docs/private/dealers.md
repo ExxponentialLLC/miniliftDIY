@@ -38,10 +38,10 @@ The good reception of MiniLift in the USA is explained by several factors, among
 
 <br> 
 
-All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the MiniLift line in the coming years. <br><br>
+All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the Minilift line in the coming years. <br><br>
 
 **Safety standards** <br>
-User safety is Minilift's primary concern. Minilift line elevators meet all American vertical accessibility standards. In particular, the Minilift line fits into the DoJ's ADA (Americans with Disabilities Act) and the 2010 ADA Standards for Accessible Design "2010 Standards" or "Standards".
+**User safety** is the main concern of the Minilift engineering team. Minilift elevators meet **all American vertical accessibility standards**. In particular, the Minilift line fits into the **DoJ's ADA (Americans with Disabilities Act)** by following the **2010 ADA Standards for Accessible Design**.
 
 The 2010 Standards set minimum requirements - both scoping and technical - for newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. <br><br>
 
