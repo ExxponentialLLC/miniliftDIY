@@ -166,9 +166,7 @@ Significant part of the final price of the equipment is a result of the aggregat
 
 The Minilift DIY line distribution strategy will use **authorized distributors** in the USA, including **retail stores**, **contractors** and **architects**.
 
-Despite the focus on distributing the DIY model in retail stores, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
-
-<br> 
+Despite the focus on distributing the DIY model in retail stores, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.<br> 
 
 ## <br>
 
