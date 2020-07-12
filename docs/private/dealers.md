@@ -1,7 +1,7 @@
 <a name="start"></a>
 <br>
 
-## MINILIFT DEALER'S PAGE  
+## MINILIFT DEALER PAGE
 
 <br> 
 
