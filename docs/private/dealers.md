@@ -3,7 +3,7 @@
 
 ## MINILIFT DEALER'S PAGE  
 
-### The oportunity
+### MINILIFT USA
 **Exxponential LLC** imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**. Watch some videos with the equipment in operation.<br> <br>
 
 <p align="center">
@@ -66,7 +66,7 @@ The execution of the civli work is the client's responsibility and basically con
 
 During the execution of civil works, clients receive technical advice with all the necessary guidelines for contracting the services of the contractors.
 
-Eventually, the installation requires ** travel ** and ** accommodation ** of technicians, especially for the interior regions of the states. Some states also require prior license applications from city governments.<br> <br>
+Eventually, the installation requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. Some states also require prior license applications from city governments.<br> <br>
 
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
@@ -76,41 +76,7 @@ Eventually, the installation requires ** travel ** and ** accommodation ** of te
 <em>Some equipments installed in the USA.</em>
 </p>
 
-<br> 
-
-**commercial conditions** <br>
-The prices for Minilift two-stop lifts basically depend on the size of the cab. It is possible to order from a Minilift lift with a cab for a single person to two people plus a wheelchair.
-
-The lowest-priced model costs around $ 15,000.
-
-The values are divided into three installments. The first installment is paid upon closing the contract, a second installment is paid on delivery of the equipment to the customer's home and a last installment is paid at the end of the installation of the equipment.
-
-The commissioning of dealers and resellers is paid in the same proportion as the division of the installments.
-
-<br> 
-
-### What's next
-
-**New Minilift design** <br>
-In response to our customers' requests, we are developing a new design for the cabins of the Minilift product line.<br><br>
-
-<p align="center">
-  <img src="img/new-cover.png" width="500">
-</p>
-<p align="center"><em>New cab design.</em>
-</p>
-
-<br>
-
-**Do It Yourself - DIY** <br>
-Significant part of the final price of the equipment is a result of the aggregate cost to **install** the equipment. So we have researching viable ways to **adapt the current project** of the MiniLift line to the DIY modality and, thus, considerably reduce the price of the equipment to the final consumer.
-
-The Minilift DIY line distribution strategy will use **authorized distributors** in the USA, including **retail stores**, **contractors** and **architects**.
-
-Despite the focus on distributing the DIY model in retail stores, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
-
 <br><br>
-
 
 ### Minilift dealers and consultants
 
@@ -157,10 +123,44 @@ TECHNICAL MAINTENANCE
 
 <br><br>
 
-
 **MiniLift consultants**
 
 Minilift consultants are partners, remunerated for performing part of the tasks described above under the responsibility of the dealers. For example, an architect can perform ** lead generetion ** and ** customer convincing ** of a sale and receive 70% of commercial commission if the sale is actually made.
+
+<br><br>
+
+**Price and commercial conditions** <br>
+The prices for Minilift two-stop lifts basically depend on the size of the cab. It is possible to order from a Minilift lift with a cab for a single person to two people plus a wheelchair.
+
+The lowest-priced model costs around $ 15,000.
+
+The values are divided into three installments. The first installment is paid upon closing the contract, a second installment is paid on delivery of the equipment to the customer's home and a last installment is paid at the end of the installation of the equipment.
+
+The commissioning of dealers and resellers is paid in the same proportion as the division of the installments.
+
+<br> <br>
+
+### What's next
+
+**New Minilift design** <br>
+In response to our customers' requests, we are developing a new design for the cabins of the Minilift product line. The new cabs will soon be available for sale.<br><br>
+
+<p align="center">
+  <img src="img/new-cover.png" width="500">
+</p>
+<p align="center"><em>Studies for a new cab design.</em>
+</p>
+
+<br>
+
+**Do It Yourself - DIY** <br>
+Significant part of the final price of the equipment is a result of the aggregate cost to **install** the equipment. So we have researching viable ways to **adapt the current project** of the MiniLift line to the DIY modality and, thus, considerably reduce the price of the equipment to the final consumer.
+
+The Minilift DIY line distribution strategy will use **authorized distributors** in the USA, including **retail stores**, **contractors** and **architects**.
+
+Despite the focus on distributing the DIY model in retail stores, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
+
+<br> 
 
 ## <br>
 
