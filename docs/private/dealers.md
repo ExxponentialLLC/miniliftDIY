@@ -6,7 +6,9 @@
 ### The oportunity
 The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**.
 
-The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. <br> <br>
+The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. 
+
+Watch some videos with the equipment in operation.<br> <br>
 
 <p align="center">
     <img src="img/simulacao1.png" height="280">
@@ -51,6 +53,21 @@ The installation of Minilift is a very quick and simple operation, but one that 
 
 <br> 
 
+
+### What's next
+
+**New Minilift design** <br>
+In response to our customers' requests, we are developing a new design for the cabins of the Minilift product line.<br><br>
+
+<p align="center">
+  <img src="img/new-cover.png" width="500">
+</p>
+<p align="center"><em>New cab design.</em>
+</p>
+
+<br><br>
+
+
 **Do It Yourself - DIY** <br>
 After the first year of operation in the USA, the entrepreneurs at the head of the business found that a significant part of the final price of the equipment is a result of the aggregate cost to **install** the equipment.
 
@@ -70,8 +87,7 @@ Over the past few months, they have researched and found viable ways to **adapt 
 
 <br>
 
-### The business
-Faced with this scenario, entrepreneurs understand that an excellent business opportunity has been configured to be explored. The entrepreneurs then developed a business plan for the creation of the company **MiniLift-DIY**, specialized in distributing the MiniLift line in the DIY concept through the USA.<br>
+Faced with this scenario, entrepreneurs developed a business plan for the creation of the company **MiniLift-DIY**, specialized in distributing the MiniLift line in the DIY concept through the USA.<br>
 
 **Distribution** <br>
 The distribution strategy uses the main **retail chains** in the USA, such as *Home Depot, Ace Hardware, Costco, Lowe's and BJs*. <br> <br>
@@ -133,13 +149,7 @@ The company's startup, scheduled for the **first year** of operation, aims to:
 - Start negotiations and close a contract with **at least one** retail chain;
 - Promote the roadshow to raise funds for the next stage of the plan. <br><br>
 
-<p align="center">
-  <img src="img/new-cover.png" width="500">
-</p>
-<p align="center"><em>New cab design.</em>
-</p>
 
-<br><br>
 
 
 ...
