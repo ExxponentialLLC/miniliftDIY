@@ -109,8 +109,12 @@ The Minilift DIY line distribution strategy will use **authorized distributors**
 
 Despite the focus on distributing the DIY model in retail stores, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
 
+<br><br>
 
-### Minilift dealers
+
+### Minilift dealers and consultants
+
+**MiniLift dealers**
 Minilift dealers are responsible for acquiring customers and installing equipment in their areas of operation. The dealers are remunerated for their performance in the **sale process** and **installation process**. The following is a list detailing the responsibilities of the dealers, as well as the percentage that each task represents in the total remuneration:
 
 **Pre-sale process**
@@ -151,8 +155,12 @@ INSTALLATION
 TECHNICAL MAINTENANCE 
 - Preventive or corrective maintenance;
 
-<br> 
+<br><br>
 
+
+**MiniLift consultants**
+
+Minilift consultants are partners, remunerated for performing part of the tasks described above under the responsibility of the dealers. For example, an architect can perform ** lead generetion ** and ** customer convincing ** of a sale and receive 70% of commercial commission if the sale is actually made.
 
 ## <br>
 
