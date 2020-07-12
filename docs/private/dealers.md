@@ -1,13 +1,7 @@
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-</p>
-
-<a name="english"></a>
+<a name="start"></a>
 <br>
 
-## MINILIFT-DIY - EXECUTIVE SUMMARY 
+## MINILIFT DEALERS PAGE  
 
 ### The oportunity
 The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**.
@@ -42,7 +36,7 @@ The good reception of MiniLift in the USA is explained by several factors, among
 All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the MiniLift line in the coming years. 
 
 **Standards** <br>
-Minilift lifts meet American standards for vertical accessibility. <br>
+Minilift lifts meet all American standards for vertical accessibility. <br>
 
 **Installation** <br>
 The installation of Minilift is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. <br> <br>
@@ -98,18 +92,6 @@ The distribution strategy uses the main **retail chains** in the USA, such as *H
 
 Despite the focus on distributing the DIY model in retail chains, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
 
-### The execution
-The financial simulations of the business plan show that, with an **initial investment** of US $ 550,000, it is possible to reach an installed base of 1.200 elevators and **net revenues** of US $ 4.7 million (EBITDA 41% NR) in the **fifth year** of the company's operation. <br> <br>
-
-<p align="center">
-<img src="img/dre_anos15.png" width="600">
-</p>
-
-<p align="center">
-<em>Profit & loss of Minilift DIY operation between years 1 and 5.</em>
-</p>
-
-<br> 
 
 **Assumptions** <br>
 The assumptions of **market share** consider the conservative estimate of distribution *only* in the four main retail chains mentioned above and of *only* an elevator model (Minilift NANO).
@@ -159,20 +141,6 @@ The company's startup, scheduled for the **first year** of operation, aims to:
 
 <br><br>
 
-### Funding 
-All steps provided for in the business plan will be financed by **venture capital** and the main rule of thumb to attract investors is the **repurchase** of the shares by the original partners.
-
-**Seed capital** <br> 
-The objective of the **current roadshow** is to raise a target of US $ 250,000 as **seed capital** to effect the **startup** of the project in the first year of operation. <br>
-
-**Series A** <br> 
-In the next stage (Series A), the objective is to raise an additional US $ 300,000, divided into **two quotas** of US $ 150,000, with the purpose of:
-- Finish the field tests of the Minilift DIY models;
-- Renegotiate contractual terms with retail chains;
-- **Manufacture** and import **minimum inventory** to the USA capable of meeting demand safely;
-
-**Valuation** <br>
-The funding of **Seed capital** and **Series A** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </a> consider the *valuation* of $ 17.7 million for the company.
 
 ...
 
@@ -181,16 +149,10 @@ The funding of **Seed capital** and **Series A** published at <a href="https://w
 
 <br>
 <p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
+    <a href="#start">Start</a>
 </p>
 
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 
