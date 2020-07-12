@@ -1,25 +1,28 @@
 <a name="start"></a>
 <br>
 
-## MINILIFT DEALERS PAGE  
+## MINILIFT DEALER'S PAGE  
 
 ### The oportunity
-The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**. Watch some videos with the equipment in operation.<br> <br>
+**Exxponential LLC** imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**. Watch some videos with the equipment in operation.<br> <br>
 
 <p align="center">
     <img src="img/simulacao1.png" height="280">
 </p>
 
 <p align="center">
-<em>MiniLift operation videos: <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s" target="_blank">Video 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac" target="_blank">Video 2</a> | <a href="https://www.youtube.com/watch?v=fyCBqfOozSE" target="_blank">Video 3</a>.</em>
+<em>videos with the MiniLift in operation: <a href="https://www.youtube.com/watch?v=ATkJ6oD_d_s" target="_blank">Video 1</a> | <a href="https://www.youtube.com/watch?v=Z8eDpxcq_ac" target="_blank">Video 2</a> | <a href="https://www.youtube.com/watch?v=fyCBqfOozSE" target="_blank">Video 3</a>.</em>
 </p>
 
 <br>
 
-The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. The good reception of MiniLift in the USA is explained by several factors, among them:
-- The growing market for **individual accessibility**, driven by the elderly and the disabled, including veterans of war;
-- Population dispersion and high incidence of two-story houses;
-- The excellent relationship between price and benefit, when compared to the other individual accessibility options available on the market. <br> <br> 
+**Acceptance** <br>
+The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. 
+
+The good reception of MiniLift in the USA is explained by several factors, among them:
+- The growing market for **individual accessibility**, driven by the **elderly** and the **disabled**, including veterans of war;
+- Population dispersion and high incidence of **two-story houses**;
+- The excellent relationship between **price** and benefit, when compared to the other individual accessibility options available on the market. <br> <br> 
 
 <p align="center">
 <img src="img/usa+65.jpg" width="400">
@@ -31,10 +34,12 @@ The company has found very good acceptance of the equipment in the American mark
 
 <br> 
 
-All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the MiniLift line in the coming years. 
+All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the MiniLift line in the coming years. <br><br>
 
 **Safety standards** <br>
-User safety is Minilift's primary concern. Minilift elevators meet all American vertical accessibility standards. <br><br>
+User safety is Minilift's primary concern. Minilift line elevators meet all American vertical accessibility standards. In particular, the Minilift line fits into the DoJ's ADA (Americans with Disabilities Act) and the 2010 ADA Standards for Accessible Design "2010 Standards" or "Standards".
+
+*The 2010 Standards set minimum requirements - both scoping and technical - for newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities.* <br><br>
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -45,6 +50,8 @@ User safety is Minilift's primary concern. Minilift elevators meet all American 
 <p align="center">
 <em>Conceptual layout of the Minilift line in the USA.</em>
 </p>
+
+Access the full standard at <a href="https://exxponentialllc.github.io/miniliftDIY/2010ADAStandards.pdf" target="_blank">210 ADA Standards for Accessible Design</a>.
 
 <br>
 
