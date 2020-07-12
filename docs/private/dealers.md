@@ -82,12 +82,12 @@ Eventually, the installation requires **travel** and **accommodation** of techni
 
 <br><br>
 
-### Minilift dealers and consultants
+### Minilift dealers 
 
-**MiniLift dealers**
-Minilift dealers are responsible for acquiring customers and installing equipment in their areas of operation. The dealers are remunerated for their performance in the **sale process** and **installation process**. 
+**MiniLift Authorized Resellers**
+MiniLift Authorized Resellers are responsible for acquiring customers and installing equipment in their **acting regions**. The authorized resellers are remunerated for their performance both in the **sale process** and the **installation process**. 
 
-The following list details the tasks of the dealers, as well as the percentage that each task represents in the total remuneration.
+The following list details the tasks of the dealers, as well as the percentage that each task represents to the total **resseller remuneration*.
 
 <br> 
 
@@ -120,8 +120,8 @@ ORDER (10%)
 **After sales process**
 
 INSTALLATION
-- Preparatory works;
-- Receiving and checking the kit;
+- Advice for the preparatory civil works;
+- Receiving and checking the Minilift package kit;
 - Assembling the equipment;
 - Elaborating the performance tests;
 - Filling the feedback report;
@@ -129,10 +129,10 @@ INSTALLATION
 TECHNICAL MAINTENANCE 
 - Preventive or corrective maintenance;
 
+
 <br>
 
-**MiniLift consultants**
-
+**MiniLift consultants** <br> 
 Minilift consultants are partners, remunerated for performing part of the tasks described above under the responsibility of the dealers. For example, an architect can perform **lead generation** and **prospect convincing** of a sale and receive 70% of commercial commission if the sale is actually made.
 
 <br>
@@ -168,9 +168,9 @@ Despite the focus on distributing the DIY model in retail stores, the new compan
 
 ## <br>
 
-Visit the Minilift page in <a href="https://minilift-usa.com/faq/" target="_blank">Minilift page</a>
+See the frequent asked questions about Minilift visiting <a href="https://minilift-usa.com/faq/" target="_blank">Minilift FAQ</a>.
 
-Contact us by the phone ** ***-******. 
+If you want to be a Minilift consultant or dealer, please contact us to the phone ** ***-******. 
 
 
 <br>
