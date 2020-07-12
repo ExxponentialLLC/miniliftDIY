@@ -39,45 +39,53 @@ All of these factors point to a promising growth of Exxponential LLC and an incr
 **Safety standards** <br>
 User safety is Minilift's primary concern. Minilift line elevators meet all American vertical accessibility standards. In particular, the Minilift line fits into the DoJ's ADA (Americans with Disabilities Act) and the 2010 ADA Standards for Accessible Design "2010 Standards" or "Standards".
 
-*The 2010 Standards set minimum requirements - both scoping and technical - for newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities.* <br><br>
+The 2010 Standards set minimum requirements - both scoping and technical - for newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. <br><br>
 
 <p align="center">
-    <img src="img/duo-draft.png" height="200">
+    <img src="img/duo-draft.png" height="300">
     .
-    <img src="img/nano-draft.png" height="200">
+    <img src="img/nano-draft.png" height="300">
 </p>
 
 <p align="center">
 <em>Conceptual layout of the Minilift line in the USA.</em>
 </p>
 
+<br>
+
 Access the full standard at <a href="https://exxponentialllc.github.io/miniliftDIY/2010ADAStandards.pdf" target="_blank">210 ADA Standards for Accessible Design</a>.
 
 <br>
 
 **Installation** <br>
-Installing Minilift is a very quick and simple operation.
+Installing Minilift is a very quick and simple operation. The civil work to prepare for the installation of the equipment is also very simple.
 
-The civil work to prepare for the installation of the equipment is also very simple. The work is the client's responsibility, but basically consists of:
+The execution of the civli work is the client's responsibility and basically consists of:
 - Drill a square hole between the two floors served by Minilift;
-- Install a 220V source (of the same type as the electric power sources for air conditioning equipment).
+- Install a 220V power supply (the same type as the electric power sources for air conditioning equipment).
 
-During the execution of the civil works to install the Minilift, customers receive technical advice with all the necessary guidelines for contracting the services of the contractors.
+During the execution of civil works, clients receive technical advice with all the necessary guidelines for contracting the services of the contractors.
 
-Eventually the installation requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. Some states also require prior license application from city governments.<br> <br>
+Eventually, the installation requires ** travel ** and ** accommodation ** of technicians, especially for the interior regions of the states. Some states also require prior license applications from city governments.<br> <br>
 
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
 </p>
 
 <p align="center">
-<em>Equipment installed in the USA.</em>
+<em>Some equipments installed in the USA.</em>
 </p>
 
 <br> 
 
-**Price** <br>
-Installing Minilift is
+**commercial conditions** <br>
+The prices for Minilift two-stop lifts basically depend on the size of the cab. It is possible to order from a Minilift lift with a cab for a single person to two people plus a wheelchair.
+
+The lowest-priced model costs around $ 15,000.
+
+The values are divided into three installments. The first installment is paid upon closing the contract, a second installment is paid on delivery of the equipment to the customer's home and a last installment is paid at the end of the installation of the equipment.
+
+The commissioning of dealers and resellers is paid in the same proportion as the division of the installments.
 
 <br> 
 
@@ -150,7 +158,7 @@ TECHNICAL MAINTENANCE
 
 Visit the Minilift page in <a href="https://minilift-usa.com/faq/" target="_blank">Minilift page</a>
 
-Contact us by... 
+Contact us by the phone ** ***-******. 
 
 
 <br>
