@@ -3,6 +3,8 @@
 
 ## MINILIFT DEALER'S PAGE  
 
+<br> 
+
 ### MINILIFT USA
 **Exxponential LLC** imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**. Watch some videos with the equipment in operation.<br> <br>
 
@@ -81,7 +83,11 @@ Eventually, the installation requires **travel** and **accommodation** of techni
 ### Minilift dealers and consultants
 
 **MiniLift dealers**
-Minilift dealers are responsible for acquiring customers and installing equipment in their areas of operation. The dealers are remunerated for their performance in the **sale process** and **installation process**. The following is a list detailing the responsibilities of the dealers, as well as the percentage that each task represents in the total remuneration:
+Minilift dealers are responsible for acquiring customers and installing equipment in their areas of operation. The dealers are remunerated for their performance in the **sale process** and **installation process**. 
+
+The following list details the tasks of the dealers, as well as the percentage that each task represents in the total remuneration.
+
+<br> 
 
 **Pre-sale process**
 
@@ -121,13 +127,13 @@ INSTALLATION
 TECHNICAL MAINTENANCE 
 - Preventive or corrective maintenance;
 
-<br><br>
+<br>
 
 **MiniLift consultants**
 
 Minilift consultants are partners, remunerated for performing part of the tasks described above under the responsibility of the dealers. For example, an architect can perform ** lead generetion ** and ** customer convincing ** of a sale and receive 70% of commercial commission if the sale is actually made.
 
-<br><br>
+<br>
 
 **Price and commercial conditions** <br>
 The prices for Minilift two-stop lifts basically depend on the size of the cab. It is possible to order from a Minilift lift with a cab for a single person to two people plus a wheelchair.
@@ -138,7 +144,7 @@ The values are divided into three installments. The first installment is paid up
 
 The commissioning of dealers and resellers is paid in the same proportion as the division of the installments.
 
-<br> <br>
+<br><br>
 
 ### What's next
 
@@ -171,7 +177,7 @@ Contact us by the phone ** ***-******.
 
 <br>
 <p align="center">    
-    <a href="#start">Start</a>
+    <a href="#start">Go to the top</a>
 </p>
 
 ## <br>
