@@ -104,7 +104,7 @@ TECHNICAL CONTACT (20%)
 - Information gathering
 - Commercial proposal writing 
 
-CUSTOMER CONVINCING (50%)
+PROSPECT CONVINCING (50%)
 - Sending the commercial proposal 
 - Meeting calls 
 - Emails exchanges 
@@ -133,18 +133,16 @@ TECHNICAL MAINTENANCE
 
 **MiniLift consultants**
 
-Minilift consultants are partners, remunerated for performing part of the tasks described above under the responsibility of the dealers. For example, an architect can perform ** lead generetion ** and ** customer convincing ** of a sale and receive 70% of commercial commission if the sale is actually made.
+Minilift consultants are partners, remunerated for performing part of the tasks described above under the responsibility of the dealers. For example, an architect can perform **lead generation** and **prospect convincing** of a sale and receive 70% of commercial commission if the sale is actually made.
 
 <br>
 
 **Price and commercial conditions** <br>
-The prices for Minilift two-stop lifts basically depend on the size of the cab. It is possible to order from a Minilift lift with a cab for a single person to two people plus a wheelchair.
+The prices for Minilift two-stop lifts basically depend on the size of the cab. It is possible to order from a Minilift lift with a cab for a single person to two people plus a wheelchair. The lowest-priced model costs about $ 15,000, including installation.
 
-The lowest-priced model costs around $ 15,000.
+In general, the payment is divided into three installments. The first installment is paid upon closing the contract, a second installment is paid on delivery of the equipment to the customer's home and a last installment is paid at the end of the installation of the equipment.
 
-The values are divided into three installments. The first installment is paid upon closing the contract, a second installment is paid on delivery of the equipment to the customer's home and a last installment is paid at the end of the installation of the equipment.
-
-The commissioning of dealers and resellers is paid in the same proportion as the division of the installments.
+The commissioning of the dealers and concultants is paid in the same proportion as the division of the installments.
 
 <br><br>
 
