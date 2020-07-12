@@ -20,8 +20,8 @@ Watch some videos with the equipment in operation.<br> <br>
 
 <br>
 
-**Acceptance** <br>
-The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. 
+**Acceptance of American users** <br>
+The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its users and customers. 
 
 The good reception of MiniLift in the USA is explained by several factors, among them:
 - The growing market for **individual accessibility**, driven by the **elderly** and the **disabled**, including veterans of war;
