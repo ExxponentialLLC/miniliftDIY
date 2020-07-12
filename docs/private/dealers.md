@@ -6,7 +6,9 @@
 <br> 
 
 ### MINILIFT USA
-**Exxponential LLC** imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**. Watch some videos with the equipment in operation.<br> <br>
+**Exxponential LLC** imports and installs **MiniLift** in the USA. Minilift is a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**. 
+
+Watch some videos with the equipment in operation.<br> <br>
 
 <p align="center">
     <img src="img/simulacao1.png" height="280">
