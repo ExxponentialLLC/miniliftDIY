@@ -9,10 +9,10 @@
 
 ## MINILIFT-DIY - EXECUTIVE SUMMARY 
 
-### The oportunity
-The company Exxponential LLC imports and installs **MiniLift** in the USA, a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**.
+### The opportunity
+The company Exxponential LLC imports and installs **MiniLift** elevators in the USA, a line of compact two-stop residential elevators, **revolutionary** as a result of **simplicity**, **efficiency**, **low energy consumption** and **low environmental impact**.
 
-The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its customers. <br> <br>
+The company has had exceptional acceptance of its products in the American market, which is confirmed with a Net Promoter Score (NPS) indicator of over 8 among its customers. <br> <br>
 
 <p align="center">
     <img src="img/simulacao1.png" height="280">
@@ -24,10 +24,10 @@ The company has found very good acceptance of the equipment in the American mark
 
 <br>
 
-The good reception of MiniLift in the USA is explained by several factors, among them:
-- The growing market for **individual accessibility**, driven by the elderly and the disabled, including veterans of war;
-- Population dispersion and high incidence of two-story houses;
-- The excellent relationship between price and benefit, when compared to the other individual accessibility options available on the market. <br> <br> 
+The positive response to MiniLift in the USA is as a result of several factors, including:
+- The growing market for **individual accessibility**, driven by the elderly and the disabled, US Veterans.
+- Population dispersion and the large number of two-story houses;
+- The major advantage of excellent value for money and benefit when compared to the other individual accessibility options available in the market. <br> <br> 
 
 <p align="center">
 <img src="img/usa+65.jpg" width="400">
@@ -39,13 +39,13 @@ The good reception of MiniLift in the USA is explained by several factors, among
 
 <br> 
 
-All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the MiniLift line in the coming years. 
+This means that there will be substancial growth for home accessibility options throughout the USA and the Minilift line will be in much grather demand in the coming years, promising exceptional growth opportuninies for Exxponential LLC.   
 
 **Standards** <br>
-Minilift lifts meet American standards for vertical accessibility. <br>
+Minilift elevators lifts meet American standards for vertical accessibility. <br>
 
 **Installation** <br>
-The installation of Minilift is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. <br> <br>
+The installation of Minilift elevator is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** of technicians throughout the United States. <br> <br>
 
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
@@ -58,11 +58,11 @@ The installation of Minilift is a very quick and simple operation, but one that 
 <br> 
 
 **Do It Yourself - DIY** <br>
-After the first year of operation in the USA, the entrepreneurs at the head of the business found that a significant part of the final price of the equipment is a result of the aggregate cost to **install** the equipment.
+After the first year of operation in the USA, the entrepreneurs mamnaging the business found that the final elevator prices were being significantly increased due to the additional costs to **install** the elevators.
 
-On the one hand, the price of the elevator is impacted by the costs of installing the equipment. On the other hand, the American market is very receptive to **“ *do it yourself (DIY)* ”**, a concept in which the customer assembles and installs a certain equipment in exchange for various benefits, including the reduction **price** and **personal satisfaction** for performing manual activity.
+On the one hand, the price of the elevator is impacted by the costs of installing the equipment while on the other hand, the American market is very receptive to **“ *do it yourself (DIY)* ”**, where the customer assembles and installs an item in exchange for various benefits, such as **price** and **persnal stisfaction** from doing the job themselves. 
 
-Over the past few months, they have researched and found viable ways to **adapt the current project** of the MiniLift line to the DIY modality and, thus, considerably reduce the price of the equipment to the final consumer.
+As a result of this the company looked to amend the Minilitf market strategy to include a **DIY distribution plan** thereby greatly reducing the final elevator prices for customers.
 
 <p align="center">
     <img src="img/duo-draft.png" height="200">
@@ -77,10 +77,10 @@ Over the past few months, they have researched and found viable ways to **adapt 
 <br>
 
 ### The business
-Faced with this scenario, entrepreneurs understand that an excellent business opportunity has been configured to be explored. The entrepreneurs then developed a business plan for the creation of the company **MiniLift-DIY**, specialized in distributing the MiniLift line in the DIY concept through the USA.<br>
+As a result, the company has worked on a new Business Plan to target the DIY market throughout the United States and believes that launching **MiniLift-DIY** is an excepcional business opportunity.<br>
 
 **Distribution** <br>
-The distribution strategy uses the main **retail chains** in the USA, such as *Home Depot, Ace Hardware, Costco, Lowe's and BJs*. <br> <br>
+The distribution strategy focuses on the major **retail chains** in the USA, e.g. *Home Depot, Ace Hardware, Costco, Lowe's and BJs*. <br> <br>
 
 <p align="center">
     <img src="img/Home Depot logo low.png" height="60">
@@ -91,12 +91,12 @@ The distribution strategy uses the main **retail chains** in the USA, such as *H
 </p>
 
 <p align="center">
-<em>Retail chain with great capilairade in the USA.</em>
+<em>Major DIY retail chains in the USA.</em>
 </p>
 
 <br>
 
-Despite the focus on distributing the DIY model in retail chains, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.
+Despite the focus on distributing the DIY model in retail chains, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.<br>
 
 ### The execution
 The financial simulations of the business plan show that, with an **initial investment** of US $ 550,000, it is possible to reach an installed base of 1.200 elevators and **net revenues** of US $ 4.7 million (EBITDA 41% NR) in the **fifth year** of the company's operation. <br> <br>
