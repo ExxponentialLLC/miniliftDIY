@@ -96,10 +96,10 @@ The distribution strategy focuses on the major **retail chains** in the USA, e.g
 
 <br>
 
-Despite the focus on distributing the DIY model in retail chains, the new company intends to continue selling the elevator line in the traditional way, that is, it will continue to carry out installations and technical assistance for the equipment throughout the USA.<br>
+In addition to expanding to distribute its elevator products to the DIY market in the USA via key DIY retail chains, the new company will continue to sell its elevators directly to the consumer and offer installation and technical assistance throughout the USA.<br>
 
 ### The execution
-The financial simulations of the business plan show that, with an **initial investment** of US $ 550,000, it is possible to reach an installed base of 1.200 elevators and **net revenues** of US $ 4.7 million (EBITDA 41% NR) in the **fifth year** of the company's operation. <br> <br>
+The business plan projections show that with an **initial investment** of US $ 550,000 by the **5th year** of operations, a total of 1,200 elevators will have been installed, achieving a **net revenue** of US $ 4.7 million (EBITDA 41% NR). <br> <br>
 
 <p align="center">
 <img src="img/dre_anos15.png" width="600">
@@ -112,43 +112,43 @@ The financial simulations of the business plan show that, with an **initial inve
 <br> 
 
 **Assumptions** <br>
-The assumptions of **market share** consider the conservative estimate of distribution *only* in the four main retail chains mentioned above and of *only* an elevator model (Minilift NANO).
+**Market share** assumptions are based on a conservative estimate of distribution *only* in the four major retail chains mentioned above and of *only* 1 elevator model (Minilift NANO).
 
-Together, these four retail chains add up to about 4,000 stores in the American territory, so that the estimated amount of sales in five years means that only 3.5% of the total stores will be able to sell one piece of equipment per year.
+These four retail chains have approximately 4,000 stores in the US, and our assumption is that only 3.5% of these stores will sell 1 elevator per year over the 5-year period.
 
-The simulations also used the following premises of **attraction** and **conversion** in the year 2: <br>
+The model also used the following assumption of **enquiries** and **conversions** in year 2: <br>
 - Price list of the Minilift Nano DIY - US $ 11,266;
-- % discount for the dealer - 20%
+- % discount for the retailer - 20%
 - Retail stores (total) - 4,000
-- Attraction rate of at least one LEAD per year - 20% of stores
+- Enquiry rate of at least one LEAD per year - 20% of stores
 - Leads ("SAL" type) generated in year 2 - 3,750
 - Conversion rate (SALES/SAL) - 3.0%
-- Products sold in year 2 - 132 pieces of equipment (Retail + online)
+- Products sold in year 2 - 132 elevators (Retail + online)
 
-Obs.: *SAL = Sales accepted leads* <br><br>
+Note: *SAL = Sales accepted leads* <br><br>
 
 <p align = "center">
   <img src = "img/revenue_forecast_15.png" width = "600">
 </p>
-<p align="center"><em>Sales overview according to funding and growth assumptions.</em>
+<p align="center"><em>Sales overview based on funding and growth assumptions.</em>
 </p><br>
 
-P&L simulations also considered the following premises: <br>
+P&L model is also based on the following **assumptions on costs and prices in year 2**: <br>
 
 **Assumptions for costs and prices in year 2**
 - Total direct cost of production (including freight) - $ 4,920
 - Product return rate - 15%
-- Rate of reuse of the returned product - 95%
+- Rate of re-use of the returned product - 95%
 - Sales taxes (VAT) - 0% <br><br>
 
 ### Company Startup
-The company's startup, scheduled for the **first year** of operation, aims to:
-- Start commercial operation in the city of Miami, FL;
-- Complete the **DIY adaptation project** of the Minivator NANO model;
-- Produce **a prototype** for field tests;
-- Produce **three prototypes** for showroom;
-- Produce **ten units** for initial stock;
-- Start negotiations and close a contract with **at least one** retail chain;
+The company's first year start-up plan includes:
+- Launch commercial operations in the city of Miami, FL.
+- Complete the **DIY plan** of the Minilift NANO model.
+- Produce **a prototype** for field tests.
+- Produce **three prototypes** for showroom.
+- Produce **ten units** as an initial stock.
+- Start negotiations and close a contract with **at least one** retail chain.
 - Promote the roadshow to raise funds for the next stage of the plan. <br><br>
 
 <p align="center">
@@ -160,19 +160,19 @@ The company's startup, scheduled for the **first year** of operation, aims to:
 <br><br>
 
 ### Funding 
-All steps provided for in the business plan will be financed by **venture capital** and the main rule of thumb to attract investors is the **repurchase** of the shares by the original partners.
+All steps provided for in the business plan will be financed by **venture capital** and the proposal to attract investors is the **repurchase** of the shares by the original partners.
 
 **Seed capital** <br> 
-The objective of the **current roadshow** is to raise a target of US $ 250,000 as **seed capital** to effect the **startup** of the project in the first year of operation. <br>
+The objective of the **current roadshow** is to raise US $ 250,000 as **seed capital** to fund the **startup** of the project in the first year of operation. <br>
 
 **Series A** <br> 
-In the next stage (Series A), the objective is to raise an additional US $ 300,000, divided into **two quotas** of US $ 150,000, with the purpose of:
-- Finish the field tests of the Minilift DIY models;
-- Renegotiate contractual terms with retail chains;
-- **Manufacture** and import **minimum inventory** to the USA capable of meeting demand safely;
+In the next stage (Series A), the objective is to raise an additional US $ 300,000, divided into **two quotas** of US $ 150,000, each for the purpose of:
+- Completing the field tests of the Minilift DIY models.
+- Renegotiating and agreeing contractual terms with retail chains.
+- **Manufacture** and import the **minimum required inventory** into the USA to ensure market demand can be meet. 
 
 **Valuation** <br>
-The funding of **Seed capital** and **Series A** published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </a> consider the *valuation* of $ 17.7 million for the company.
+The **Seed capital** and **Series A** funding published at <a href="https://www.crunchbase.com/organization/minilift-diy#section-overview"> Crunch Base </a> consider the *valuation* of $ 17.7 million for the company.
 
 ...
 
