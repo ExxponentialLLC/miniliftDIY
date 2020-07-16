@@ -6,7 +6,7 @@
 <br> 
 
 ### MINILIFT USA
-**Exxponential LLC** imports and installs **MiniLift** in the USA. Minilift is a line of compact two-stop residential elevators, **revolutionary** by **simplicity**, **efficiency**, **low power consumption energy** and **low environmental impact**. 
+The company **Exxponential LLC** imports and installs **MiniLift** elevators in the USA, a line of compact two-stop residential elevators, **revolutionary** as a result of **simplicity**, **efficiency**, **low energy consumption** and **low environmental impact**. 
 
 Watch some videos with the equipment in operation.<br> <br>
 
@@ -21,12 +21,12 @@ Watch some videos with the equipment in operation.<br> <br>
 <br>
 
 **Acceptance of American users** <br>
-The company has found very good acceptance of the equipment in the American market, which can be confirmed with a Net Promoter Score (NPS) indicator above 8 among its users and customers. 
+The company has had exceptional acceptance of its products in the American market, which is confirmed with a Net Promoter Score (NPS) indicator of over 8 among its customers.
 
-The good reception of MiniLift in the USA is explained by several factors, among them:
-- The growing market for **individual accessibility**, driven by the **elderly** and the **disabled**, including veterans of war;
-- Population dispersion and high incidence of **two-story houses**;
-- The excellent relationship between **price** and benefit, when compared to the other individual accessibility options available on the market. <br> <br> 
+The positive response to MiniLift in the USA is as a result of several factors, including:
+- The growing market for **individual accessibility**, driven by the elderly and the disabled, and US Veterans.
+- Population dispersion and the large number of two-story houses;
+- The major advantage of excellent value for money and benefits when compared to the other individual accessibility options available in the market. <br><br> 
 
 <p align="center">
 <img src="img/usa+65.jpg" width="400">
@@ -38,12 +38,12 @@ The good reception of MiniLift in the USA is explained by several factors, among
 
 <br> 
 
-All of these factors point to a promising growth of Exxponential LLC and an increasing **popularization of the concept** of accessibility of the Minilift line in the coming years. <br><br>
+This means that there will be substancial growth for home accessibility options throughout the USA and the Minilift line will be in much grather demand in the coming years, promising exceptional growth opportuninies for Exxponential LLC. <br><br>
 
-**Safety standards** <br>
-**User safety** is the main concern of the Minilift engineering team. Minilift elevators meet **all American vertical accessibility standards**. In particular, the Minilift line fits into the **DoJ's ADA (Americans with Disabilities Act)** by following the **2010 ADA Standards for Accessible Design**.
+**Safety Standards** <br>
+**User safety** is the main concern of the Minilift engineering team. Minilift elevators meet **all American vertical accessibility standards**. In particular, the Minilift line fits to the **DoJ's ADA (Americans with Disabilities Act)** ruled by the **2010 ADA Standards for Accessible Design**.
 
-The 2010 Standards set minimum requirements - both scoping and technical - for newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. <br><br>
+The "2010 ADA Standards" set the minimum requirements -both scoping and technical- for *"newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities"*. <br><br>
 
 <p align="center">
     <img src="img/duo-draft.png" height="300">
@@ -57,12 +57,12 @@ The 2010 Standards set minimum requirements - both scoping and technical - for n
 
 <br>
 
-For more details, access the full standard technical sheets at <a href="https://exxponentialllc.github.io/miniliftDIY/2010ADAStandards.pdf" target="_blank">2010 ADA Standards for Accessible Design</a>.
+*Note: See the full standard at <a href="https://exxponentialllc.github.io/miniliftDIY/2010ADAStandards.pdf" target="_blank">2010 ADA Standards for Accessible Design</a>*.
 
 <br>
 
 **Minilift installation** <br>
-Installing Minilift is a very **quick** and **simple** operation. The **civil work** to prepare for the installation of the equipment is also very simple.
+The installation of a Minilift elevator is a very quick and simple operation. The **civil work** to prepare for the installation of the equipment is also very simple.
 
 The execution of the civli work is the client's responsibility and basically consists of:
 - Drill a square hole between the two floors served by Minilift;
@@ -70,7 +70,7 @@ The execution of the civli work is the client's responsibility and basically con
 
 During the execution of civil works, **clients receive technical advice** with all the necessary guidelines for contracting the services of the **contractors**.
 
-Eventually, the installation requires **travel** and **accommodation** of technicians, especially for the interior regions of the states. Some states also require **prior license applications** from city governments.<br> <br>
+The installation often involves some **logistical complexity** when it requires **travel** and **accommodation** for technicians throughout the United States. <br> <br>
 
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
@@ -138,9 +138,9 @@ Minilift consultants are partners, remunerated for performing part of the tasks 
 <br>
 
 **Price and commercial conditions** <br>
-The prices for Minilift two-stop lifts basically depend on the size of the cab. It is possible to order from a Minilift lift with a cab for a single person to two people plus a wheelchair. The lowest-priced model costs about $ 15,000, including installation.
+The prices of the Minilift two-stop elevators basically depend on the size of the cab. It is possible to order from a Minilift elevator with a cab for a single person to two people plus a wheelchair. The lowest-priced model costs about $ 15,000, installation services included.
 
-In general, the payment is divided into three installments. The first installment is paid upon closing the contract, a second installment is paid on delivery of the equipment to the customer's home and a last installment is paid at the end of the installation of the equipment.
+Usualy, the payment is divided into three installments. The first installment is paid upon closing the contract, a second installment is paid on delivery of the equipment to the customer's home and a last installment is paid at the end of the installation of the equipment.
 
 The commissioning of the dealers and concultants is paid in the same proportion as the division of the installments.
 
