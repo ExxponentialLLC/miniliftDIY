@@ -123,16 +123,16 @@ The business plan projections show that with an **initial investment** of US $ 5
 
 These four retail chains have approximately 4,000 stores in the US, and our assumption is that only 3.5% of these stores will sell 1 elevator per year over the 5-year period.
 
-The model also used the following assumption of **enquiries** and **conversions** in year 2: <br>
-- Price list of the Minilift Nano DIY - US $ 11,266;
+The model also used the following assumption of **customer acquisition** in year 2: <br>
+- Price list of the Minilift Nano DIY - US $ 11,266
 - % discount for the retailer - 20%
 - Retail stores (total) - 4,000
 - Enquiry rate of at least one LEAD per year - 20% of stores
-- Leads ("SAL" type) generated in year 2 - 3,750
-- Conversion rate (SALES/SAL) - 3.0%
+- Marketing Qualified Leads (MQL) generated in year 2 - 3,750
+- Conversion rate (SALES/MQL) - 3.0%
 - Products sold in year 2 - 132 elevators (Retail + online)
 
-Note: *SAL = Sales accepted leads* <br><br>
+<br><br>
 
 <p align = "center">
   <img src = "img/revenue_forecast_15.png" width = "600">
