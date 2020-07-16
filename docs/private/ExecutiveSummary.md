@@ -12,7 +12,7 @@
 ### The opportunity
 The company Exxponential LLC imports and installs **MiniLift** elevators in the USA, a line of compact two-stop residential elevators, **revolutionary** as a result of **simplicity**, **efficiency**, **low energy consumption** and **low environmental impact**.
 
-The company has had exceptional acceptance of its products in the American market, which is confirmed with a Net Promoter Score (NPS) indicator of over 8 among its customers. <br> <br>
+The company has had exceptional acceptance of its products in the American market, which is confirmed with a Net Promoter Score (NPS) indicator of over 8 among its customers. <br><br>
 
 <p align="center">
     <img src="img/simulacao1.png" height="280">
@@ -25,9 +25,9 @@ The company has had exceptional acceptance of its products in the American marke
 <br>
 
 The positive response to MiniLift in the USA is as a result of several factors, including:
-- The growing market for **individual accessibility**, driven by the elderly and the disabled, US Veterans.
+- The growing market for **individual accessibility**, driven by the elderly and the disabled, and US Veterans.
 - Population dispersion and the large number of two-story houses;
-- The major advantage of excellent value for money and benefit when compared to the other individual accessibility options available in the market. <br> <br> 
+- The major advantage of excellent value for money and benefits when compared to the other individual accessibility options available in the market. <br><br> 
 
 <p align="center">
 <img src="img/usa+65.jpg" width="400">
@@ -42,10 +42,10 @@ The positive response to MiniLift in the USA is as a result of several factors, 
 This means that there will be substancial growth for home accessibility options throughout the USA and the Minilift line will be in much grather demand in the coming years, promising exceptional growth opportuninies for Exxponential LLC.   
 
 **Standards** <br>
-Minilift elevators lifts meet American standards for vertical accessibility. <br>
+Minilift elevators meet American standards for vertical accessibility. <br>
 
 **Installation** <br>
-The installation of Minilift elevator is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** of technicians throughout the United States. <br> <br>
+The installation of a Minilift elevator is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** for technicians throughout the United States. <br> <br>
 
 <p align="center">
 <img src="img/clientes-compilation.jpg" width="500">
@@ -58,9 +58,9 @@ The installation of Minilift elevator is a very quick and simple operation, but 
 <br> 
 
 **Do It Yourself - DIY** <br>
-After the first year of operation in the USA, the entrepreneurs mamnaging the business found that the final elevator prices were being significantly increased due to the additional costs to **install** the elevators.
+After the first year of operation in the USA, the entrepreneurs managing the business found that the final elevator prices were being significantly increased due to the additional costs to **install** the elevators.
 
-On the one hand, the price of the elevator is impacted by the costs of installing the equipment while on the other hand, the American market is very receptive to **“ *do it yourself (DIY)* ”**, where the customer assembles and installs an item in exchange for various benefits, such as **price** and **persnal stisfaction** from doing the job themselves. 
+On the one hand, the price of the elevator is impacted by the costs of installing the equipment while on the other hand, the American market is very receptive to **“ *do it yourself (DIY)* ”**, where the customer assembles and installs an item in exchange for various benefits, such as **price** and **personal satisfaction** from doing the job themselves. 
 
 As a result of this the company looked to amend the Minilitf market strategy to include a **DIY distribution plan** thereby greatly reducing the final elevator prices for customers.
 
@@ -134,8 +134,6 @@ Note: *SAL = Sales accepted leads* <br><br>
 </p><br>
 
 P&L model is also based on the following **assumptions on costs and prices in year 2**: <br>
-
-**Assumptions for costs and prices in year 2**
 - Total direct cost of production (including freight) - $ 4,920
 - Product return rate - 15%
 - Rate of re-use of the returned product - 95%
@@ -168,7 +166,7 @@ The objective of the **current roadshow** is to raise US $ 250,000 as **seed cap
 **Series A** <br> 
 In the next stage (Series A), the objective is to raise an additional US $ 300,000, divided into **two quotas** of US $ 150,000, each for the purpose of:
 - Completing the field tests of the Minilift DIY models.
-- Renegotiating and agreeing contractual terms with retail chains.
+- Negotiating and agreeing contractual terms with retail chains.
 - **Manufacture** and import the **minimum required inventory** into the USA to ensure market demand can be meet. 
 
 **Valuation** <br>
