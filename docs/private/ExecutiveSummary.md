@@ -10,9 +10,7 @@
 ## MINILIFT-DIY - EXECUTIVE SUMMARY 
 
 ### The opportunity
-The company Exxponential LLC imports and installs **MiniLift** elevators in the USA, a line of compact two-stop residential elevators, **revolutionary** as a result of **simplicity**, **efficiency**, **low energy consumption** and **low environmental impact**.
-
-The company has had exceptional acceptance of its products in the American market, which is confirmed with a Net Promoter Score (NPS) indicator of over 8 among its customers. <br><br>
+The company Exxponential LLC imports and installs **MiniLift** elevators in the USA, a line of compact two-stop residential elevators, **revolutionary** as a result of **simplicity**, **efficiency**, **low energy consumption** and **low environmental impact**.<br><br>
 
 <p align="center">
     <img src="img/simulacao1.png" height="280">
@@ -23,6 +21,9 @@ The company has had exceptional acceptance of its products in the American marke
 </p>
 
 <br>
+
+**Acceptance of American users** <br>
+The company has had exceptional acceptance of its products in the American market, which is confirmed with a Net Promoter Score (NPS) indicator of over 8 among its customers.
 
 The positive response to MiniLift in the USA is as a result of several factors, including:
 - The growing market for **individual accessibility**, driven by the elderly and the disabled, and US Veterans.
@@ -39,10 +40,26 @@ The positive response to MiniLift in the USA is as a result of several factors, 
 
 <br> 
 
-This means that there will be substancial growth for home accessibility options throughout the USA and the Minilift line will be in much grather demand in the coming years, promising exceptional growth opportuninies for Exxponential LLC.   
+This means that there will be substancial growth for home accessibility options throughout the USA and the Minilift line will be in much grather demand in the coming years, promising exceptional growth opportuninies for Exxponential LLC.<br><br>
 
-**Standards** <br>
-Minilift elevators meet American standards for vertical accessibility. <br>
+**Safety Standards** <br>
+**User safety** is the main concern of the Minilift engineering team. Minilift elevators meet **all American vertical accessibility standards**. In particular, the Minilift line fits to the **DoJ's ADA (Americans with Disabilities Act)** ruled by the **2010 ADA Standards for Accessible Design**.
+
+The "2010 ADA Standards" set the minimum requirements -both scoping and technical- for *"newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities"*. <br><br>
+
+<p align="center">
+    <img src="img/duo-draft.png" height="300">
+    .
+    <img src="img/nano-draft.png" height="300">
+</p>
+
+<p align="center">
+<em>2010 ADA conceptual layout of the Minilift line in the USA.</em>
+</p>
+
+<br>
+
+*Note: See the full standard at <a href="https://exxponentialllc.github.io/miniliftDIY/2010ADAStandards.pdf" target="_blank">2010 ADA Standards for Accessible Design</a>*.<br><br>
 
 **Installation** <br>
 The installation of a Minilift elevator is a very quick and simple operation, but one that often involves some **logistical complexity** when it requires **travel** and **accommodation** for technicians throughout the United States. <br> <br>
@@ -64,17 +81,7 @@ On the one hand, the price of the elevator is impacted by the costs of installin
 
 As a result of this the company looked to amend the Minilitf market strategy to include a **DIY distribution plan** thereby greatly reducing the final elevator prices for customers.
 
-<p align="center">
-    <img src="img/duo-draft.png" height="200">
-    .
-    <img src="img/nano-draft.png" height="200">
-</p>
-
-<p align="center">
-<em>Conceptual layout of the Minilift DIY line in the USA.</em>
-</p>
-
-<br>
+<br><br>
 
 ### The business
 As a result, the company has worked on a new Business Plan to target the DIY market throughout the United States and believes that launching **MiniLift-DIY** is an excepcional business opportunity.<br>
