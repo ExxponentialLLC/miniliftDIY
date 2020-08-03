@@ -26,7 +26,7 @@ The company Exxponential LLC imports and installs **MiniLift** elevators in the 
 The company has had exceptional acceptance of its products in the American market, which is confirmed with a Net Promoter Score (NPS) indicator of over 8 among its customers.
 
 The positive response to MiniLift in the USA is as a result of several factors, including:
-- The growing market for **individual accessibility**, driven by the elderly and the disabled, and US Veterans.
+- The growing market for **individual accessibility**, driven by the elderly, the disabled, and US Veterans.
 - Population dispersion and the large number of two-story houses;
 - The major advantage of excellent value for money and benefits when compared to the other individual accessibility options available in the market. <br><br> 
 
@@ -40,10 +40,10 @@ The positive response to MiniLift in the USA is as a result of several factors, 
 
 <br> 
 
-This means that there will be substancial growth for home accessibility options throughout the USA and the Minilift line will be in much grather demand in the coming years, promising exceptional growth opportuninies for Exxponential LLC.<br><br>
+This means that there will be substantial growth for home accessibility options throughout the USA and the Minilift line will be in much greater demand in the coming years, promising exceptional growth opportunities for Exxponential LLC.<br><br>
 
 **Safety Standards** <br>
-**User safety** is the main concern of the Minilift engineering team. Minilift elevators meet **all American vertical accessibility standards**. In particular, the Minilift line fits to the **DoJ's ADA (Americans with Disabilities Act)** ruled by the **2010 ADA Standards for Accessible Design**.
+**User safety** is the main concern of the Minilift engineering team. Minilift elevators meet **all American vertical accessibility standards**. In particular, the Minilift line adheres to the **DoJ's ADA (Americans with Disabilities Act)** ruled by the **2010 ADA Standards for Accessible Design**.
 
 The "2010 ADA Standards" set the minimum requirements -both scoping and technical- for *"newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities"*. <br><br>
 
@@ -84,7 +84,7 @@ As a result of this the company looked to amend the Minilitf market strategy to 
 <br><br>
 
 ### The business
-As a result, the company has worked on a new Business Plan to target the DIY market throughout the United States and believes that launching **MiniLift-DIY** is an excepcional business opportunity.<br>
+As a result, the company has worked on a new Business Plan to target the DIY market throughout the United States and believes that launching **MiniLift-DIY** is an exceptional business opportunity.<br>
 
 **Distribution** <br>
 The distribution strategy focuses on the major **retail chains** in the USA, e.g. *Home Depot, Ace Hardware, Costco, Lowe's and BJs*. <br> <br>
