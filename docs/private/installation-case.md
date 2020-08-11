@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="img2/diy1.jpg" width="500">
+<img src="img2/diy1.jpeg" width="500">
 </p>
 
 <p align="center">
