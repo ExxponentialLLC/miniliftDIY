@@ -31,7 +31,6 @@
 </p><br> 
 
 
-
 <p align="center">
 <img src="img2/diy6.jpeg" width="500"><br>
 <em></em>
@@ -42,12 +41,15 @@
 <em></em>
 </p><br> 
 
-<p align="center">
-<img src="img2/diy9.jpeg" width="500"><br>
-<em></em>
-</p><br> 
+
+
 <p align="center">
 <img src="img2/diy10.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
+<p align="center">
+<img src="img2/diy9.jpeg" width="500"><br>
 <em></em>
 </p><br> 
 
@@ -55,12 +57,14 @@
 <img src="img2/diy12.jpeg" width="500"><br>
 <em></em>
 </p><br> 
-<p align="center">
-<img src="img2/diy13.jpeg" width="500"><br>
-<em></em>
-</p><br> 
+
 <p align="center">
 <img src="img2/diy14.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
+<p align="center">
+<img src="img2/diy13.jpeg" width="500"><br>
 <em></em>
 </p><br> 
 
@@ -85,26 +89,22 @@
 </p><br> 
 
 <p align="center">
-<img src="img2/diy18.jpeg" width="500"><br>
-<em></em>
-</p><br> 
-<p align="center">
 <img src="img2/diy19.jpeg" width="500"><br>
 <em></em>
 </p><br> 
+
 <p align="center">
 <img src="img2/diy20.jpeg" width="500"><br>
 <em></em>
 </p><br> 
-<p align="center">
-<img src="img2/diy21.jpeg" width="500"><br>
-<em></em>
-</p><br> 
-<p align="center">
-<img src="img2/diy22.jpeg" width="500"><br>
-<em></em>
+
 </p><br> <p align="center">
 <img src="img2/diy23.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
+<p align="center">
+<img src="img2/diy18.jpeg" width="500"><br>
 <em></em>
 </p><br> 
 
