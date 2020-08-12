@@ -6,8 +6,8 @@
 
 <p align="center">
 <img src="img2/diy15.jpeg" width="500"><br>
-<em></em>
-</p>Starting time<br> 
+<em>Starting time</em>
+</p><br> 
 
 <p align="center">
 <img src="img2/diy2.jpeg" width="500"><br>
