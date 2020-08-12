@@ -19,7 +19,6 @@
 <em></em>
 </p><br> 
 
-
 <p align="center">
 <img src="img2/diy5.jpeg" width="500"><br>
 <em></em>
@@ -40,8 +39,6 @@
 <img src="img2/diy7.jpeg" width="500"><br>
 <em></em>
 </p><br> 
-
-
 
 <p align="center">
 <img src="img2/diy10.jpeg" width="500"><br>
@@ -98,14 +95,14 @@
 <em></em>
 </p><br> 
 
-</p><br> <p align="center">
-<img src="img2/diy23.jpeg" width="500"><br>
-<em></em>
-</p><br> 
-
 <p align="center">
 <img src="img2/diy18.jpeg" width="500"><br>
 <em></em>
 </p><br> 
 
-# 
+<p align="center">
+<img src="img2/diy23.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
+...
