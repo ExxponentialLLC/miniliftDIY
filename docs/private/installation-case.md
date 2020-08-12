@@ -56,16 +56,6 @@
 </p><br> 
 
 <p align="center">
-<img src="img2/diy14.jpeg" width="500"><br>
-<em></em>
-</p><br> 
-
-<p align="center">
-<img src="img2/diy13.jpeg" width="500"><br>
-<em></em>
-</p><br> 
-
-<p align="center">
 <img src="img2/diy16.jpeg" width="500"><br>
 <em></em>
 </p><br> 
@@ -82,6 +72,16 @@
 
 <p align="center">
 <img src="img2/diy11.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
+<p align="center">
+<img src="img2/diy14.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
+<p align="center">
+<img src="img2/diy13.jpeg" width="500"><br>
 <em></em>
 </p><br> 
 
