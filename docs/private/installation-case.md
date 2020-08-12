@@ -8,31 +8,38 @@
 <img src="img2/diy15.jpeg" width="500"><br>
 <em></em>
 </p><br> 
+
 <p align="center">
 <img src="img2/diy2.jpeg" width="500"><br>
 <em></em>
 </p><br> 
+
 <p align="center">
 <img src="img2/diy4.jpeg" width="500"><br>
 <em></em>
 </p><br> 
+
+
+<p align="center">
+<img src="img2/diy5.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
+<p align="center">
+<img src="img2/diy8.jpeg" width="500"><br>
+<em></em>
+</p><br> 
+
 <p align="center">
 <img src="img2/diy3.jpeg" width="500"><br>
 <em></em>
 </p><br> 
 
 <p align="center">
-<img src="img2/diy5.jpeg" width="500"><br>
-<em></em>
-<p align="center">
-<img src="img2/diy8.jpeg" width="500"><br>
-<em></em>
-</p><br> 
-</p><br> 
-<p align="center">
 <img src="img2/diy6.jpeg" width="500"><br>
 <em></em>
 </p><br> 
+
 <p align="center">
 <img src="img2/diy7.jpeg" width="500"><br>
 <em></em>
