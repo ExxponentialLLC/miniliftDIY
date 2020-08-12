@@ -6,17 +6,17 @@
 
 <p align="center">
 <img src="img2/diy15.jpeg" width="500"><br>
-<em>Starting time</em>
+<em>Denver, Colorado - USA</em>
 </p><br> 
 
 <p align="center">
 <img src="img2/diy2.jpeg" width="500"><br>
-<em>1 hour from the start time</em>
+<em>Starting time</em>
 </p><br> 
 
 <p align="center">
 <img src="img2/diy4.jpeg" width="500"><br>
-<em>1 hour from the start time</em>
+<em>Here we are</em>
 </p><br> 
 
 <p align="center">
@@ -102,7 +102,7 @@
 
 <p align="center">
 <img src="img2/diy23.jpeg" width="500"><br>
-<em>1 hour from the start time</em>
+<em>Done! Great job guys.</em>
 </p><br> 
 
 ...
